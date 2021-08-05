@@ -118,7 +118,7 @@
             <!--===================================================-->
             <div id="page-content">
 
-                <div class="row" style="height: 800px;" id="guanxi">
+                <div class="row" style="height: 800px;" id="show-kg">
 
                     <script type="text/javascript">
                         window.onresize = function () {
@@ -126,7 +126,7 @@
                             myChart.resize();
                         }
                         $.ajaxSetup({async: false});
-                        var myChart = echarts.init(document.getElementById("guanxi"));
+                        var myChart = echarts.init(document.getElementById("show-kg"));
                         myChart.showLoading();
                         var rela = {"data": [], "links": []};
                         $.getJSON('/get_random', {
