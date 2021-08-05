@@ -1,0 +1,35 @@
+type,name,tbl_name,rootpage,sql
+table,person,person,2,"CREATE TABLE person (
+		id INTEGER PRIMARY KEY,  -- MiG ID
+		name TEXT,
+		mathscinet_id INTEGER
+)"
+table,degree,degree,3,"CREATE TABLE degree (
+		id INTEGER PRIMARY KEY,
+		person_id INTEGER,
+		degree TEXT,
+		title TEXT,
+		year INTEGER
+)"
+table,degree_advisor,degree_advisor,4,"CREATE TABLE degree_advisor (
+		degree_id INTEGER,
+		person_id INTEGER
+)"
+table,degree_school,degree_school,5,"CREATE TABLE degree_school (
+		degree_id INTEGER,
+		school_id INTEGER
+)"
+table,school,school,6,"CREATE TABLE school (
+		id INTEGER PRIMARY KEY,
+		name TEXT,
+		country TEXT
+)"
+table,school_location,school_location,7,"CREATE TABLE school_location (
+		id INTEGER PRIMARY KEY,
+		school_id INTEGER,
+		location_name TEXT,
+		geocoded_by TEXT,
+		x DOUBLE PRECISION,
+		y DOUBLE PRECISION,
+		srid integer
+)"

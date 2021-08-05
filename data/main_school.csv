@@ -1,0 +1,2639 @@
+id,name,country
+1,Iowa State University,Unitedstates
+2,Yale University,Unitedstates
+3,University Of Pittsburgh,Unitedstates
+4,Michigan State University,Unitedstates
+5,Albert-Ludwigs-Universit??t Freiburg Im Breisgau,Germany
+6,University Of Cincinnati,Unitedstates
+7,University Of Wisconsin-Madison,Unitedstates
+8,Stanford University,Unitedstates
+9,"University Of California, Berkeley",Unitedstates
+10,University Of Texas At Austin,Unitedstates
+11,Boston University Graduate School,Unitedstates
+12,Massachusetts Institute Of Technology,Unitedstates
+13,New Mexico State University,Unitedstates
+14,"University Of California, Los Angeles",Unitedstates
+15,University Of Adelaide,Australia
+16,Northwestern University,Unitedstates
+17,University Of Kansas,Unitedstates
+18,University Of Nebraska-Lincoln,Unitedstates
+19,University Of Iowa,Unitedstates
+20,University Of Ottawa,Canada
+21,The University Of Chicago,Unitedstates
+22,University Of Minnesota-Minneapolis,Unitedstates
+23,University Of Illinois At Urbana-Champaign,Unitedstates
+24,Oregon State University,Unitedstates
+25,University Of Missouri - Columbia,Unitedstates
+26,Universit??t Bremen,Germany
+27,Cornell University,Unitedstates
+28,California Institute Of Technology,Unitedstates
+29,Carnegie Mellon University,Unitedstates
+30,New York University,Unitedstates
+31,Purdue University,Unitedstates
+32,University Of Michigan,Unitedstates
+33,University Of Cambridge,Unitedkingdom
+34,Technische Universiteit Delft,Netherlands
+35,The Ohio State University,Unitedstates
+36,University Of Edinburgh,Unitedkingdom
+37,University Of Pennsylvania,Unitedstates
+38,Texas A&M University,Unitedstates
+39,State University Of New York At Buffalo,Unitedstates
+40,University Of Washington,Unitedstates
+41,George Peabody College For Teachers,Unitedstates
+42,Syracuse University,Unitedstates
+43,University Of Tennessee - Knoxville,Unitedstates
+44,University Of Houston,Unitedstates
+45,University Of Wisconsin-Milwaukee,Unitedstates
+46,Concordia University,Canada
+47,University Of Louisiana At Lafayette,Unitedstates
+48,The Florida State University,Unitedstates
+49,North Carolina State University,Unitedstates
+50,Rice University,Unitedstates
+51,University Of Wyoming,Unitedstates
+52,Duke University,Unitedstates
+53,Air Force Institute Of Technology,Unitedstates
+54,Montana State University,Unitedstates
+55,University Of Georgia,Unitedstates
+56,University Of Notre Dame,Unitedstates
+57,Illinois Institute Of Technology,Unitedstates
+58,The Johns Hopkins University,Unitedstates
+59,University Of Virginia,Unitedstates
+60,University Of Maryland College Park,Unitedstates
+61,Tulane University,Unitedstates
+62,University Of Arkansas,Unitedstates
+63,University Of Florida,Unitedstates
+64,University Of Massachusetts Amherst,Unitedstates
+65,The Louisiana State University,Unitedstates
+66,University Of Kentucky,Unitedstates
+67,The Pennsylvania State University,Unitedstates
+68,Princeton University,Unitedstates
+69,University Of Oregon,Unitedstates
+70,Kansas State University,Unitedstates
+71,Uniwersytet Warszawski,Poland
+72,"University Of Florida, Virginia Polytechnic Inst.",Unitedstates
+73,Georgia Institute Of Technology,Unitedstates
+74,St. Petersburg State University,Russia
+75,University Of Alabama-Tuscaloosa,Unitedstates
+76,Georgetown University And Northwestern University And The University Of Chicago,Unitedstates
+77,University Of Miami,Unitedstates
+78,Case Western Reserve University,Unitedstates
+79,The University Of North Carolina At Chapel Hill,Unitedstates
+80,"Rutgers University, New Brunswick",Unitedstates
+81,State University Of New York At Binghamton,Unitedstates
+82,Arizona State University,Unitedstates
+83,Virginia Polytechnic Institute And State University,Unitedstates
+84,"University Of California, Riverside",Unitedstates
+85,University Of British Columbia,Canada
+86,University Of Alberta,Canada
+87,Indian Institute Of Technology,India
+88,Vanderbilt University,Unitedstates
+89,University Of Northern Colorado,Unitedstates
+90,Texas Tech University,Unitedstates
+91,Indiana University,Unitedstates
+92,Babe??-Bolyai University,Romania
+93,Northern Illinois University,Unitedstates
+94,University Of Utah,Unitedstates
+95,Auburn University,Unitedstates
+96,Universit??t Leipzig,Germany
+97,North Dakota State University,Unitedstates
+98,University Of Missouri - Kansas City,Unitedstates
+99,Helsingin Yliopisto,Finland
+100,Kiev State University,Ukraine
+101,Moscow State University,Russia
+102,University Of Delhi,India
+103,Harvard University,Unitedstates
+104,Georg-August-Universit??t G??ttingen,Germany
+105,Christian-Albrechts-Universit??t Zu Kiel,Germany
+106,University Of London,Unitedkingdom
+107,Radcliffe College,Unitedstates
+108,University Of Tokyo,Japan
+109,Lehigh University,Unitedstates
+110,The University Of Texas At Dallas,Unitedstates
+111,University Of South Carolina,Unitedstates
+112,State University Of New York At Stony Brook,Unitedstates
+113,University Of Texas At Arlington,Unitedstates
+114,University Of Arizona,Unitedstates
+115,Columbia University,Unitedstates
+116,Universit??t Fridericiana Zu Karlsruhe,Germany
+117,Technical University Of Budapest,Hungary
+118,Brown University,Unitedstates
+119,University Of Southern California,Unitedstates
+120,The American University,Unitedstates
+121,The University Of Oklahoma,Unitedstates
+122,Universit??t Hamburg,Germany
+123,Washington University In St. Louis,Unitedstates
+124,City University Of New York,Unitedstates
+125,Western Michigan University,Unitedstates
+126,University Of Colorado At Boulder,Unitedstates
+127,University Of Osaka,Japan
+128,University Of Oxford,Unitedkingdom
+129,Temple University,Unitedstates
+130,University Of Toronto,Canada
+131,Universit??t Regensburg,Germany
+132,University Of Manchester,Unitedkingdom
+133,University Of Alabama In Huntsville,Unitedstates
+134,"University Of California, Santa Cruz",Unitedstates
+135,Bowling Green State University,Unitedstates
+136,Wichita State University,Unitedstates
+137,Wayne State University,Unitedstates
+138,Ohio University,Unitedstates
+139,Emory University,Unitedstates
+140,University Of Delaware,Unitedstates
+141,University Of Nottingham,Unitedkingdom
+142,Friedrich-Alexander-Universit??t Erlangen-N??rnberg,Germany
+143,Southern Methodist University,Unitedstates
+144,London School Of Economics,Unitedkingdom
+145,Lund University,Sweden
+146,University Of New South Wales,Australia
+147,Southern Illinois University At Carbondale,Unitedstates
+148,University Of Glasgow,Unitedkingdom
+149,University Of Warwick,Unitedkingdom
+150,University Of Colorado At Denver,Unitedstates
+151,The University Of Memphis,Unitedstates
+152,University Of Montana,Unitedstates
+153,Utah State University,Unitedstates
+154,University Of Rhode Island,Unitedstates
+155,Universit?? Denis Diderot - Paris Vii,France
+156,Kungliga Tekniska H??gskolan,Sweden
+157,Universidade De Bras??lia,Brazil
+158,Lund Institute Of Technology,Sweden
+159,Universit?? Paris Xiii,France
+160,Ivan Franko National University Of Lviv,Ukraine
+161,Technische Universit??t Darmstadt,Germany
+162,Cumberland University,Unitedstates
+163,Eidgen??ssische Technische Hochschule Z??rich,Switzerland
+164,Universit??t Berlin,Germany
+165,Tsing-Hua University,Taiwan
+166,Adelphi University,Unitedstates
+167,Texas A&M University,null
+168,Universit??t Z??rich,Switzerland
+169,Eberhard-Karls-Universit??t T??bingen,Germany
+170,The George Washington University,Unitedstates
+171,Russian Academy Of Sciences,Russia
+172,Universit?? Di Roma,Italy
+173,Brandeis University,Unitedstates
+174,Universiteit Utrecht,Netherlands
+175,Technische Universit??t Carolo-Wilhelmina Zu Braunschweig,Germany
+176,Uppsala Universitet,Sweden
+177,University Of Natal,Southafrica
+178,University Of Belgrade,Serbia
+179,Ludwig-Maximilians-Universit??t M??nchen,Germany
+180,Ruhr-Universit??t Bochum,Germany
+181,Wesleyan University,Unitedstates
+182,Universidad De Buenos Aires,Argentina
+183,"University Of California, San Diego",Unitedstates
+184,Queen'S University At Kingston,Canada
+185,University Of Calgary,Canada
+186,Tartu University,Estonia
+187,Hebrew University,Israel
+188,Oklahoma State University,Unitedstates
+189,Carleton University,Canada
+190,Universidade De S??o Paulo,Brazil
+191,Universit?? Paris Iv-Sorbonne,France
+192,Universit?? De Gen??ve,Switzerland
+193,Universit??t Wien,Austria
+194,Universidad De Barcelona,Spain
+195,"Institute Of Mathematics, Polish Academy Of Science",Poland
+196,The University Of Rochester,Unitedstates
+197,Cardiff University,Unitedkingdom
+198,Universit??t Basel,Switzerland
+199,Technische Universit??t M??nchen,Germany
+200,Philipps-Universit??t Marburg,Germany
+201,Universit?? De Paris,France
+202,Universidade De Braga,Portugal
+203,Kyoto University,Japan
+204,Novosibirsk State University,Russia
+205,University Of New Hampshire,Unitedstates
+206,Monash University,Australia
+207,Universiteit Gent,Belgium
+208,Marquette University,Unitedstates
+209,University Of Illinois At Chicago,Unitedstates
+210,??cole Normale Sup??rieure De Lyon,France
+211,"Indiana University-Purdue University, Indianapolis",Unitedstates
+212,Johann Wolfgang Goethe-Universit??t Frankfurt Am Main,Germany
+213,"University Of California, Davis",Unitedstates
+214,Imperial College,Unitedkingdom
+215,Universit??t Kaiserslautern,Germany
+216,University Of St. Andrews,Unitedkingdom
+217,Stockholm University,Sweden
+218,Bryn Mawr College,Unitedstates
+219,"Trinity College, Dublin",Ireland
+220,Rostov On Don State University,Russia
+221,E??tv??s Lor??nd University,Hungary
+222,Washington State University,Unitedstates
+223,University Of Durham,Unitedkingdom
+224,Naval Postgraduate School,Unitedstates
+225,Universit??t K??nigsberg,Germany
+226,Rheinische Friedrich-Wilhelms-Universit??t Bonn,Germany
+227,Otto-Von-Guericke-Universit??t Magdeburg,Germany
+228,University Of Sussex,Unitedkingdom
+229,Clark University,Unitedstates
+230,Westf??lische Wilhelms-Universit??t M??nster,Germany
+231,Ruprecht-Karls-Universit??t Heidelberg,Germany
+232,Friedrich-Schiller-Universit??t Jena,Germany
+233,Universit?? Di Pisa,Italy
+234,Technische Universit??t Hannover,Germany
+235,University Of Bucharest,Romania
+236,The Catholic University Of America,Unitedstates
+237,Michigan Technological University,Unitedstates
+238,University Of Denver,Unitedstates
+239,Katholieke Universiteit Nijmegen,Netherlands
+240,University Of Waterloo,Canada
+241,Technische Universit??t Dresden,Germany
+242,"University Of California, Irvine",Unitedstates
+243,Universit??t Stra??burg,Germany
+244,New York University,null
+245,Universiteit Van Amsterdam,Netherlands
+246,University Of Western Ontario,Canada
+247,Kazan State University,Russia
+248,University Of Madras,India
+249,Australian National University,Australia
+250,"Universit?? Mohammed I, Oujda",Morocco
+251,Dartmouth College,Unitedstates
+252,University College Dublin,Ireland
+253,Universiteit Leiden,Netherlands
+254,University Of Aberdeen,Unitedkingdom
+255,Freie Universit??t Berlin,Germany
+256,Technische Universit??t Berlin,Germany
+257,Ural State University,Russia
+258,K??benhavns Universitet,Denmark
+259,University Of Mumbai,India
+260,Universit??t Innsbruck,Austria
+261,University Of Leeds,Unitedkingdom
+262,University Of New Mexico,Unitedstates
+263,Charles University,Czechrepublic
+264,Haverford College,Unitedstates
+265,Florida Institute Of Technology,Unitedstates
+266,Colorado State University,Unitedstates
+267,"Curtin University Of Technology, Perth",Australia
+268,University Of Sofia,Bulgaria
+269,Universit??t Dortmund,Germany
+270,Universidad Nacional De La Plata,Argentina
+271,The University Of Connecticut,Unitedstates
+272,Universit?? Paris Vi - Pierre Et Marie Curie,France
+273,Universidad Central De Venezuela,Venezuela
+274,State University Of New York At Albany,Unitedstates
+275,University Of Mississippi,Unitedstates
+276,Politechnika Wroc??awska,Poland
+277,"Tulane University, Uniwersytet Warszawski",Unitedstates
+278,"Princeton University, Oxford University",Unitedstates
+279,Alexandru Ioan Cuza University Of Iasi,Romania
+280,Baylor University,Unitedstates
+281,Polytechnic University,Unitedstates
+282,Universit?? Bordeaux 1,France
+283,Universit?? De Fribourg,Switzerland
+284,Johannes Gutenberg-Universit??t Mainz,Germany
+285,The University Of North Dakota,Unitedstates
+286,Rheinisch-Westf??lische Technische Hochschule Aachen,Germany
+287,University Of Sydney,Australia
+288,Brigham Young University,Unitedstates
+289,Timisoara University,Romania
+290,University Of South Florida,Unitedstates
+291,Texas Christian University,Unitedstates
+292,Universidad Complutense De Madrid,Spain
+293,Rensselaer Polytechnic Institute,Unitedstates
+294,"Indian Statistical Institute, Calcutta",India
+295,Nagoya University,Japan
+296,Harish-Chandra Research Institute,India
+297,Tata Institute Of Fundamental Research,India
+298,Ohio State University-Texas A&M University,Unitedstates
+299,"Panjab University, Chandigarh And University Of Cambridge",India
+300,University Of Lw??w,Poland
+301,"E??tv??s Lor??nd University, University Of Debrecen",Hungary
+302,University Of Szeged,Hungary
+303,University Of Bath,Unitedkingdom
+304,University Of Debrecen,Hungary
+305,"The Ohio State University, University Of British Columbia",Unitedstates
+306,University Of Melbourne,Australia
+307,Steklov Institute Of Mathematics,Russia
+308,University Of Newcastle,Australia
+309,"University Of Wales, Aberystwyth",Unitedkingdom
+310,Universit?? Di Bologna,Italy
+311,Universit?? Della Svizzera Italiana,Switzerland
+312,??cole Nationale Sup??rieure Des Mines De Paris,France
+313,University Of North Texas,Unitedstates
+314,St. Louis University,Unitedstates
+315,Kent State University,Unitedstates
+316,Illinois State University,Unitedstates
+317,Colorado School Of Mines,Unitedstates
+318,West Virginia University,Unitedstates
+319,Simon Fraser University,Canada
+320,Polish Academy Of Sciences,Poland
+321,Universit??t Graz,Austria
+322,Universit??t Bern,Switzerland
+323,"Institute Of Mathematics, Bucharest",Romania
+324,University Of Zagreb,Croatia
+325,University Of Athens,Greece
+326,Tel Aviv University,Israel
+327,Universidade De Santiago De Compostela,Spain
+328,Technion-Israel Institute Of Technology,Israel
+329,Aarhus University,Denmark
+330,Hungarian Academy Of Sciences,Hungary
+331,Middle East Technical University,Turkey
+332,University Of Dundee,Unitedkingdom
+333,Tashkent State University,Uzbekistan
+334,University Of Newcastle-Upon Tyne,Unitedkingdom
+335,University Of Prague,Czechrepublic
+336,Old Dominion University,Unitedstates
+337,Universitetet I Oslo,Norway
+338,Queen'S University Of Belfast,Unitedkingdom
+339,Calcutta University,India
+340,Mcgill University,Canada
+341,Universit??t Zu K??ln,Germany
+342,University Of Alabama-Birmingham,Unitedstates
+343,University Of Sheffield,Unitedkingdom
+344,Universidade Federal Do Rio Grande Do Sul,Brazil
+345,Queensland University Of Technology,Australia
+346,University Of East Anglia,Unitedkingdom
+347,Uniwersytet Wroc??awski,Poland
+348,Humboldt-Universit??t Zu Berlin,Germany
+349,Universit?? Paris-Sud Xi - Orsay,France
+350,Technische Universit??t Bergakademie Freiberg,Germany
+351,Kazan State University And Moscow State University,Russia
+352,Uniwersytet Jagiello??ski,Poland
+353,Missouri University Of Science And Technology,Unitedstates
+354,Politechnika Lwowska,Poland
+355,"University Of California, Irvine",null
+356,Universit?? Di Padova,Italy
+357,Universit??t Hannover,Germany
+358,Clarkson University,Unitedstates
+359,University Of The Witwatersrand,Southafrica
+360,Vrije Universiteit Amsterdam,Netherlands
+361,Justus-Liebig-Universit??t Gie??en,Germany
+362,Claremont Graduate University,Unitedstates
+363,"Uniwersytet Warszawski,  Universit?? De Paris",Poland
+364,University Of Lucknow,India
+365,University Of Havana,Cuba
+366,Universit??t Des Saarlandes,Germany
+367,Mcmaster University,Canada
+368,Universit?? De Montr??al,Canada
+369,Universit?? Catholique De Louvain,Belgium
+370,University College London,Unitedkingdom
+371,Universit?? Joseph Fourier Grenoble I,France
+372,Universit?? De Li??ge,Belgium
+373,Universit?? De Franche-Comt??,France
+374,Universit?? Libre De Bruxelles,Belgium
+375,Universiteit Twente,Netherlands
+376,Universit??t Stuttgart,Germany
+377,George Mason University,Unitedstates
+378,Universidade De Lisboa,Portugal
+379,Institute For Studies In Theoretical Physics And Mathematics (Ipm),Iran
+380,Uniwersytet Miko??aja Kopernika,Poland
+381,Uniwersytet Marii Curie-Sk??odowskiej,Poland
+382,University Of Gdansk,Poland
+383,"Indian Institute Of Science, Bangalore",India
+384,"Universit?? Mohammed V -Agdal, Rabat",Morocco
+385,Rijksuniversiteit Groningen,Netherlands
+386,Technische Universit??t Wien,Austria
+387,Universit?? Rennes I,France
+388,Universidad De Madrid,Spain
+389,University Of Exeter,Unitedkingdom
+390,Korea Advanced Institute Of Science And Technology,Southkorea
+391,Heinrich-Heine-Universit??t D??sseldorf,Germany
+392,University Of Liverpool,Unitedkingdom
+393,Universidad De Cantabria,Spain
+394,"University Of Wales, Bangor",Unitedkingdom
+395,"Institute Of Mathematics, Ukrainian Academy Of Science",Ukraine
+396,Seoul National University,Southkorea
+397,Universit?? Henri Poincar?? Nancy 1,France
+398,Peking University,China
+399,Instituto De Matem??tica Pura E Aplicada,Brazil
+400,Universit??t Paderborn,Germany
+401,Universidade De Aveiro,Portugal
+402,Universit?? Di Lecce,Italy
+403,??cole Polytechnique,France
+404,Bayerische Julius-Maximilians-Universit??t W??rzburg,Germany
+405,Universidad De Sevilla,Spain
+406,Technische Universiteit Eindhoven,Netherlands
+407,Bo??azi??i University,Turkey
+408,Institut National Polytechnique De Lorraine,France
+409,National University Of Singapore,Singapore
+410,Universit??t Passau,Germany
+411,Universit?? De Nantes,France
+412,Universiteit Van Tilburg (Katholieke Universiteit Brabant),Netherlands
+413,Universit??t Ulm,Germany
+414,"Institute Of Mathematics, Novosibirsk",Russia
+415,Scuola Normale Superiore Di Pisa,Italy
+416,Perm State University,Russia
+417,Universitas Vilnensis,Lithuania
+418,University Of Maryland Baltimore County,Unitedstates
+419,University Of Victoria,Canada
+420,University Of Isfahan,Iran
+421,Birkbeck College,Unitedkingdom
+422,Ben-Gurion University Of The Negev,Israel
+423,University Of The Basque Country,Spain
+424,Mississippi State University,Unitedstates
+425,Quaid-I-Azam University,Pakistan
+426,Universit?? Paul Sabatier - Toulouse Iii,France
+427,"University Of California, Santa Barbara",Unitedstates
+428,Yeshiva University,Unitedstates
+429,Clemson University,Unitedstates
+430,Stevens Institute Of Technology,Unitedstates
+431,University Of Saskatchewan,Canada
+432,University Of Manitoba,Canada
+433,University Of North Carolina At Charlotte,Unitedstates
+434,Universit??t Duisburg-Essen,Germany
+435,University Of Toledo,Unitedstates
+436,Tufts University,Unitedstates
+437,Worcester Polytechnic Institute,Unitedstates
+438,G??teborg Universitet,Sweden
+439,Kharkiv State University,Ukraine
+440,"Institute Of Mathematics, Kiev",Ukraine
+441,University Of Cape Town,Southafrica
+442,University Of Warsaw,Poland
+443,The Rockefeller University,Unitedstates
+444,University Of Wales,Unitedkingdom
+445,"University Of Wales, Swansea",Unitedkingdom
+446,University Of Hong Kong,Hongkong
+447,Universit??t Bielefeld,Germany
+448,??cole Normale Sup??rieure Paris,France
+449,University Of South Africa,Southafrica
+450,Universit??t Breslau,Germany
+451,University Of Southampton,Unitedkingdom
+452,"Technische Universit??t Dresden, Universit??t Leipzig",Germany
+453,Brandon University,null
+454,University Of Birmingham,Unitedkingdom
+455,The University Of The West Indies,Jamaica
+456,University Of Cracow,Poland
+457,University Of Reading,Unitedkingdom
+458,Universit?? De Provence - Aix-Marseille I,France
+459,Universidad De Valencia,Spain
+460,??cole Polytechnique F??d??rale De Lausanne,Switzerland
+461,Technische Universit??t Karlsruhe,Germany
+462,Universit?? Di Roma La Sapienza,Italy
+463,Universidad De Zaragoza,Spain
+464,Northeastern University,Unitedstates
+465,Universitat Polit??cnica De Catalunya,Spain
+466,University Of Leicester,Unitedkingdom
+467,"Indian Institute Of Technology, Bombay",India
+468,"Friedrich-Alexander-Universit??t Erlangen-N??rnberg, University Of Debrecen",Germany
+469,"Institute Of Mathematics And Informatics, Vilnius",Lithuania
+470,Universidad De Granada,Spain
+471,Drexel University,Unitedstates
+472,Gorky State University,Russia
+473,Universidad Polit??cnica De Madrid,Spain
+474,Weizmann Institute Of Science,Israel
+475,York University,Canada
+476,Universit?? Di Torino,Italy
+477,"University For Mechanical And Electrical Ingeneering, Sofia",Bulgaria
+478,Dalhousie University,Canada
+479,"Universit??t Berlin, University Of Cambridge",Germany
+480,??cole Normale Sup??rieure,France
+481,Universit??t Augsburg,Germany
+482,University Of New Orleans,Unitedstates
+483,Universit??t Helmstedt,Germany
+484,University Of Christiania,Norway
+485,Martin-Luther-Universit??t Halle-Wittenberg,Germany
+486,"University Of London, University Of Cambridge",Unitedkingdom
+487,"Indian Statistical Institute, Delhi Centre",India
+488,"European University Institute, Firenze",Italy
+489,Universit?? De Neuch??tel,Switzerland
+490,Universit?? De Lausanne,Switzerland
+491,Universit?? Di Trento,Italy
+492,University Of Pavia,Italy
+493,Johannes Kepler Universit??t Linz,Austria
+494,University Of Central Florida,Unitedstates
+495,University Of Hawaii,Unitedstates
+496,Idaho State University,Unitedstates
+497,University Of Idaho,Unitedstates
+498,Universit?? Montpellier Ii,France
+499,Universit?? Pantheon-Sorbonne : Paris I,France
+500,Leningrad State University,Russia
+501,Universit?? Di Genova,Italy
+502,Universit?? Di Milano,Italy
+503,Louisiana Tech University,Unitedstates
+504,Technische Universit??t Clausthal-Zellerfeld,Germany
+505,Ernst-Moritz-Arndt-Universit??t Greifswald,Germany
+506,Universit??t Siegen,Germany
+507,Technische Universit??t Berlin - Indiana University,Germany
+508,"University Of Utah, University Of London",Unitedstates
+509,Universidad Aut??noma De Madrid,Spain
+510,Dublin City University,Ireland
+511,Moscow Institute Of Physics And Technology,Russia
+512,Chalmers Tekniska H??gskola,Sweden
+513,University Of Ljubljana,Slovenia
+514,Helsingin Teknillinen Korkeakoulu,Finland
+515,??bo Akademi University,Finland
+516,Ume?? University,Sweden
+517,Turun Yliopisto,Finland
+518,Universidad Sim??n Bol??var,Venezuela
+519,Tokyo Imperial University,Japan
+520,University Of Thessaloniki,Greece
+521,Technical University Of Gdansk,Poland
+522,Central Michigan University,Unitedstates
+523,Technische Hochschule Stuttgart,Germany
+524,Link??pings Universitet,Sweden
+525,Universit??t Mannheim,Germany
+526,Universit??t Konstanz,Germany
+527,Universitetet I Bergen,Norway
+528,Universidad Aut??noma De Barcelona,Catalonia
+529,Bergische Universit??t Wuppertal,Germany
+530,Technische Universit??t Clausthal,Germany
+531,New Jersey Institute Of Technology,Unitedstates
+532,"Freie Universit??t Berlin, Stanford University",Germany
+533,Gerhard-Mercator-Universit??t - Gesamthochschule Duisburg,Germany
+534,Universit??t Kassel,Germany
+535,Universit??t Osnabr??ck,Germany
+536,Universit??t Bayreuth,Germany
+537,Georgetown University,Unitedstates
+538,Katholieke Universiteit Leuven,Belgium
+539,"Universit?? Libre De Bruxelles, University Of Warwick",Belgium
+540,Technical University Of Denmark,Denmark
+541,"Technical University Of Denmark, Kungliga Tekniska H??gskolan",Denmark
+542,Lafayette College,Unitedstates
+543,University Of The Bosphorus,Turkey
+544,Bar-Ilan University,Israel
+545,Cairo University,Egypt
+546,Andhra University,India
+547,Pontificia Universidad Cat??lica De Chile,Chile
+548,"Technische Universit??t Wien, U. C. Berkeley",Austria
+549,Universit?? De Pau Et Des Pays De L'Adour,France
+550,Georgia State University,Unitedstates
+551,Massachusetts Institute Of Technology,null
+552,University De L'Etat A Mons,Belgium
+553,Portland State University,Unitedstates
+554,Moscow State Pedagogical Institute,Russia
+555,University Of Wooster,Unitedstates
+556,Uniwersytet Im. Stefana Batorego W Wilnie-Polska,Poland
+557,Florida Atlantic University,Unitedstates
+558,Medical College Of Wisconsin,Unitedstates
+559,Virginia Commonwealth University,Unitedstates
+560,Universit??t Trier,Germany
+561,Universidade Estadual De Campinas,Brazil
+562,Universit??t Essen,Germany
+563,Universit??t Duisburg-Essen And Hochschule Bremerhaven,Germany
+564,Universit?? Claude Bernard - Lyon 1,France
+565,Fernuniversit??t Hagen,Germany
+566,Universit??t Wuppertal,Germany
+567,University Of Novi Sad,Serbia
+568,Technische Universit??t Ilmenau,Germany
+569,Universitat De Barcelona,Catalonia
+570,"University Of Kent, Canterbury",Unitedkingdom
+571,University Of Strathclyde,Unitedkingdom
+572,Universiteit Antwerpen,Belgium
+573,Universit?? De Nice-Sophia Antipolis,France
+574,Universit?? Di Messina,Italy
+575,Universit?? De Bourgogne,France
+576,Universit?? De Sherbrooke,Canada
+577,Universit?? De Savoie,France
+578,Univerza V Mariboru,Slovenia
+579,Jyv??skyl??n Yliopisto,Finland
+580,Universit?? De Montpellier Ii,France
+581,Aalborg Universitet,Denmark
+582,Centro De Investigaci??n Cient??fica Y De Educaci??n Superior De Ensenada,Mexico
+583,"Centro De Investigaci??n En Matem??ticas, Cimat",Mexico
+584,Universit?? Di Firenze,Italy
+585,"University Sidi Mohamed Ben Abdellah, F??s",Morocco
+586,Universit?? Du Namur,Belgium
+587,University Complutense De Madrid,Spain
+588,Universit?? Paris Iv-Sorbonne,null
+589,Carl-Von-Ossietzky-Universit??t Oldenburg,Germany
+590,Technische Hochschule Br??nn (Brno),Czechrepublic
+591,Universitat Aut??noma De Barcelona,Spain
+592,Cinvestav Del Ipn,Mexico
+593,University Of Waikato,Newzealand
+594,Universit??t Rostock,Germany
+595,"University Of Rochester, Technische Hochschule Stuttgart",Germany
+596,Qinghua University,China
+597,P??dagogische Hochschule Erfurt-M??hlhausen,Germany
+598,Universit?? Des Sciences Et Technologie De Lille-Lille I,France
+599,Chinese Academy Of Sciences,China
+600,Universit?? Paris Vi,France
+601,Academia Sinica,Taiwan
+602,Universit?? Du Maine,France
+603,National Technical University Of Athens,Greece
+604,University Of Patras,Greece
+605,Wirtschaftsuniversit??t Wien,Austria
+606,Universit?? Louis Pasteur - Strasbourg I,France
+607,University Of Tirana,Albania
+608,Ankara University,Turkey
+609,University Of Haifa,Israel
+610,Norwegian University Of Science And Technology,Norway
+611,"Technische Universit??t Darmstadt, Kth-Stockholm",Germany
+612,University Of Kerman,Iran
+613,Shiraz Univeristy,Iran
+614,Technische Hochschule Leuna-Merseburg,Germany
+615,Tarbiat-Modarres University,Iran
+616,Technische Universit??t Graz,Austria
+617,Dnepropetrovsk State University,Ukraine
+618,University Of Vermont,Unitedstates
+619,National Chiao Tung University,Taiwan
+620,Universit?? Stendhal (University Of Grenoble),France
+621,Universidad Nacional De C??rdoba,Argentina
+622,Universit??t Potsdam,Germany
+623,Technische Universit??t Chemnitz,Germany
+624,Katholische Universit??t Eichst??tt,Germany
+625,Universit??t Hohenheim,Germany
+626,Vytautas Magnus University,Lithuania
+627,Universit?? Di Bari,Italy
+628,Fordham University,Unitedstates
+629,"Technische Univ. Darmstadt, Univ. Of Washington",Germany
+630,"Steklov Institute Of Mathematics, St. Petersburg",Russia
+631,Middlesex University,Unitedkingdom
+632,Medical University Of South Carolina,Unitedstates
+633,Polytechnische School Van Delft,Germany
+634,Technische Hochschule Magdeburg,Germany
+635,"Institute Of Mathematics  Of The Belorussian Academy Of Sciences, Minsk",Belarus
+636,Universidad De Val??ncia,Spain
+637,Universidade Do Porto,Portugal
+638,University Of Auckland,Newzealand
+639,Anna University,India
+640,Universitas Carolina Prague,Czechrepublic
+641,Universit?? Laval,Canada
+642,University Of Queensland,Australia
+643,Allahabad University,India
+644,Scuola Internazionale Superiore Di Studi Avanzati,Italy
+645,P??dagogische Hochschule Potsdam,Germany
+646,Hochschule F??r Verkehrswesen Dresden,Germany
+647,Universiteit Stellenbosch,Southafrica
+648,University Of Bristol,Unitedkingdom
+649,University Of Sarajevo,Bosniaherzegovina
+650,Technische Universit??t Hamburg-Harburg,Germany
+651,University Of Cochin,India
+652,Universit?? De Reims Champagne-Ardenne,France
+653,"Cornell University, University Of Minnesota-Mpls.",Unitedstates
+654,"Institute Mathematics Academy Of Science, Belarus",Belarus
+655,Odessa State University,Ukraine
+656,Comenius University,Slovakia
+657,Akademie Der Wissenschaften Der Ddr,Germany
+658,Howard University,Unitedstates
+659,Erasmus Universiteit Rotterdam,Netherlands
+660,Ivane Javakhishvili Tbilisi State University,Georgia
+661,University Of Essex,Unitedkingdom
+662,"Facult?? Des Sciences, Paris",France
+663,Institute Of Mathematics Of The Romanian Academy,Romania
+664,Universit?? De Lille I,France
+665,Universit?? Paris V,France
+666,Universit?? De Metz,France
+667,Universit?? Jean Monnet - Saint-Etienne,France
+668,King'S College London,Unitedkingdom
+669,Universit?? Aix-Marseille,France
+670,City University Of Hong Kong,Hongkong
+671,Union College,Unitedstates
+672,Masaryk University Brno,Czechrepublic
+673,Coll??ge De France,France
+674,Politecnico Di Milano,Italy
+675,Universit?? Scientifique Et M??diacale De Grenoble (University Of Grenoble),France
+676,"Panjab University, Chandigarh",India
+677,Macquarie University,Australia
+678,The University Of Ulster,Unitedkingdom
+679,Banaras Hindu University,India
+680,University Sains Malaysia,Malaysia
+681,Oakland University,Unitedstates
+682,"Rutgers University, New Brunswick",France
+683,Univ. Paris Vi- Pierre Et Marie Curie,Unitedstates
+684,Universit??t G??ttingen,Germany
+685,Universit??t Jena And Universit??t Leipzig,Germany
+686,University Of Canterbury,Newzealand
+687,Auckland Univeristy Of Technology,Newzealand
+688,Massey University,Newzealand
+689,University Of Akron,Unitedstates
+690,Universit?? De Strasbourg,France
+691,Hochschule F??r ??konomie Berlin,Germany
+692,University Of Luton,Unitedkingdom
+693,Universit?? Paris Xii Val De Marne,France
+694,"Institute Of Mathematics, Moldavian Academy Of Science",Moldova
+695,University Of Texas At Houston,Unitedstates
+696,"Universidad De La Republica, Montevideo, Uruguay",Uruguay
+697,Tohoku University,Japan
+698,Hochschule F??r Architektur Und Bauwesen Weimar,Germany
+699,Universidade Federal Do Rio De Janeiro,Brazil
+700,The Open University,Unitedkingdom
+701,??cole Des Hautes ??tudes En Sciences Sociales Paris,France
+702,U.S.T.L Montpellier,Unitedstates
+703,Bauhaus-Universit??t Weimar,Germany
+704,Instituto Nacional De Pesquisas Espaciais,Brazil
+705,University Of Tampere,Finland
+706,Universit?? Di Napoli,Italy
+707,University Of Western Australia,Australia
+708,University Of Regina,Canada
+709,Universit?? Paris Ix - Dauphine,France
+710,Sri Sathya Sai Institute Of Higher Learning,India
+711,Institute Of Applied Mathematics Of The Russian Academy Of Sciences,Russia
+712,La Trobe University,Australia
+713,"Faculte Des Sciences, Paris",France
+714,Joensuun Yliopisto,Finland
+715,Universidad De Vigo,Spain
+716,"University Of Alaska, Fairbanks",Unitedstates
+717,Zhejiang University,China
+718,University Of York,Unitedkingdom
+719,Universidad De La Habana,Cuba
+720,Universidad De Cantabria,France
+721,Universit?? Rennes 1,Spain
+722,Flinders University Of South Australia,Australia
+723,Universidad De Valladolid,Spain
+724,Chiao-Tung University,China
+725,??cole Polytechnique De Montr??al,Canada
+726,University Of Hyderabad,India
+727,Norges Teknisk-Naturvitenskapelige Universitet,Norway
+728,Madurai Kamaraj University,India
+729,Bratislava University,Slovakia
+730,"Comenius University, Mcmaster University",Slovakia
+731,Slovak Academy Of Science,Slovakia
+732,The College Of William And Mary,Unitedstates
+733,Chinese University Of Hong Kong,Hongkong
+734,Hong Kong Polytechnic,Hongkong
+735,Tennessee State University,Unitedstates
+736,University Of Macedonia,Greece
+737,Loyola University Of Chicago,Unitedstates
+738,National Academy Of Sciences Of Ukraine,Ukraine
+739,Voronezh State University,Russia
+740,Belorussian State University,Belarus
+741,Czechoslovak Academy Of Science,Czechrepublic
+742,Southern Connecticut State University,Unitedstates
+743,University Of Turin,Unitedstates
+744,The University Of Chicago,Italy
+745,Herzen State Pedagogical University Of Russia,Russia
+746,Heriot-Watt University,Unitedkingdom
+747,Institute Of Theoretical And Applied Mechanics,Russia
+748,Universit?? De Haute-Alsace,France
+749,Massachusetts Institute Of Technology And University Of Minnesota-Minneapolis,Unitedstates
+750,University Of Turin,Italy
+751,Potchefstroomse Universiteit Vir Christelike Ho??r Onderwys,Southafrica
+752,University Of Crete,Greece
+753,Rand Afrikaans University,Southafrica
+754,Universit?? Di Florence,Italy
+755,Institute Of Control Science,Russia
+756,University Of Southern Denmark,Denmark
+757,National University Of Ireland,Ireland
+758,Joint Institute For Nuclear Research,Russia
+759,King'S College Newcastle,Unitedkingdom
+760,Aligarh Muslim University,India
+761,"Calcutta University, Oxford University",Unitedkingdom
+762,Iowa State University And The George Washington University,Unitedstates
+763,Uzbek Academy Of Sciences,Uzbekistan
+764,University Of Windsor,Canada
+765,Scuola Di Ponti E Strade,Italy
+766,"Indian Institute Of Technology, Kanpur",India
+767,Karnatak University,India
+768,Universit??t Rostock,null
+769,Odense University,Denmark
+770,Roskilde University,Denmark
+771,University Of Copenhagen,Denmark
+772,Politechnika Warszawska,Poland
+773,Universidad Nacional Del Litoral,Argentina
+774,Akademia G??rniczo-Hutnicza,Poland
+775,Technical University Of Varna,Bulgaria
+776,University Of Tasmania,Australia
+777,Higher Attestation Commission  Of Bulgaria,Bulgaria
+778,Fudan University,China
+779,Murdoch University,Australia
+780,Kossuth University,Hungary
+781,Vrije Universiteit Brussel,Belgium
+782,"University Of Oxford, University Of Warwick",Unitedkingdom
+783,Universidad Publica De Navarra,Spain
+784,Universidad De M??laga,Spain
+785,Universidad Carlos Iii De Madrid,Spain
+786,Scuola Normale Superiore Di Pisa And Universit??t Z??rich,Italy
+787,Universidad Del Pa??s Vasco,Spain
+788,"Universit??t Stuttgart, Babes-Bolyai University",Germany
+789,University Of Southern Mississippi,Unitedstates
+790,Indian Institute Of Science,India
+791,Pohang University Of Science And Technology,Southkorea
+792,Sungkyunkwan University,Southkorea
+793,Universit?? De Caen,France
+794,University Of Hull,Unitedkingdom
+795,Sharif University Of Technology,Iran
+796,Oulun Yliopisto,Finland
+797,Tokyo Metropolitan University,Japan
+798,"Kings College, University Of London",Unitedkingdom
+799,University Of Wollongong,Australia
+800,"Universidad Central, Caracas",Venezuela
+801,Iran University Of Science And Technology And University Of Western Australia,Iran
+802,University Of Jos,Nigeria
+803,University Of The Philippines,Philippines
+804,Mindanao Polytechnic State College,Philippines
+805,"Rutgers University, Newark",Unitedstates
+806,"St. Petersburg State University And Steklov Institute Of Mathematics, St. Petersburg",Russia
+807,Czech Technical University,Czechrepublic
+808,"Universita J.E.Purkyne, Brno",Czechrepublic
+809,Bilkent Universitesi,Turkey
+810,Universit?? De Cergy-Pontoise,France
+811,Justus-Liebig-Universit??t Gie??en,null
+812,Universit??t Erfurt,null
+813,University Of Massachusetts Lowell,Unitedstates
+814,Memorial University Of Newfoundland,Canada
+815,Universidad De La Rioja,Spain
+816,Northern Territory University,Australia
+817,"Universit?? Di Bologna, Rutgers University, New Brunswick",Unitedstates
+818,"University Of Glasgow, University Of Lucknow",Unitedkingdom
+819,University Of Colorado Health Sciences Center,Unitedstates
+820,Universit??t Salzburg,Austria
+821,Universidad Nacional Aut??noma De M??xico,Mexico
+822,University Of New Zealand,Newzealand
+823,Universiteit Maastricht,Netherlands
+824,The Program Systems Institute Of The Russian Academy Of Sciences,Russia
+825,Universit?? De Toulon Et Du Var,France
+826,Centro De Investigaci??n En Computaci??n Del Instituto Polit??cnico Nacional,Mexico
+827,Lomonosov University,Russia
+828,Universit?? De Rouen,France
+829,"Indian Statistical Institute, Bangalore",India
+830,"Institute Of Mathematics, Bulgarian Academy Of Sciences",Bulgaria
+831,??cole Normale Sup??rieure De Cachan,France
+832,"Scientific Council On Cybernetics, Ussr Acad.Sci.",Russia
+833,Universidad De Chile,Chile
+834,Universidad De Oviedo,Spain
+835,Universit?? D'Avignon,France
+836,Universit?? Blaise Pascal,France
+837,"Indian Institute Of Technology, Kharagpur",India
+838,"Hochschule F??r Technik, Wirtschaft Und Kultur Leipzig",Germany
+839,"Universidade Federal De Pernambuco, Recife",Brazil
+840,"Universit??t Wien, Technische Universit??t Wien",Austria
+841,"Universit?? Cadi Ayyad, Marrakech",Morocco
+842,"Universit?? Di Padova, University Of Illinois At Urbana-Champaign",Italy
+843,Universit?? Degli Studi Di Trieste,Italy
+844,Institut Des Hautes ??tudes Scientifiques,France
+845,Universit??t Der Bundeswehr M??nchen,Germany
+846,University Of Bradford,Unitedkingdom
+847,Lule?? University Of Technology,Sweden
+848,Landbouwuniversiteit Wageningen,Netherlands
+849,Universidad De Bilbao,Spain
+850,Universidade De Coimbra,Portugal
+851,Russian Academy Of Sciences Siberian Branch,Russia
+852,University Of Ege,Turkey
+853,"University Of Western Australia, Johannes Kepler Universit??t Linz",Australia
+854,Yerevan State University,Armenia
+855,Uniwersytet Im. Adama Mickiewicza Pozna??,Poland
+856,Universit??t Hildesheim,Germany
+857,Universit?? Brest,France
+858,"Sobolev Institute Of Mathematics, Novosibirsk",Russia
+859,Donetsk University,Ukraine
+860,National University Of Kyiv,Ukraine
+861,Universit??t Jena,null
+862,Europa-Universit??t Viadrina Frankfurt An Der Oder,Germany
+863,University Of New Brunswick,Canada
+864,Moscow State Lomonosov University,Russia
+865,Universidad Polit??cnica De Val??ncia,Spain
+866,National Sun Yat-Sen University,Taiwan
+867,National Tsing Hua University,Taiwan
+868,"Georg-August-Universit??t G??ttingen, Universit??t Berlin",Germany
+869,Deutsche Technische Hochschule In Prague,Czechrepublic
+870,Universidad Aut??noma Metropolitana-Iztapalapa,Mexico
+871,University Of Fez,Morocco
+872,University College Cork,Ireland
+873,Universidad De La Laguna,Spain
+874,Universidad De Las Palmas De Gran Canaria,Spain
+875,Keio University,Japan
+876,Universidad De Salamanca,Spain
+877,"National University Of Ireland, Cork",Ireland
+878,Alexandru Ioan Cuza University Of Iasi And University Of Virginia,Romania
+879,Technical University Of Ostrava,Czechrepublic
+880,University Of Roorkee,India
+881,Riga Polytechnicum,Latvia
+882,"Scuola Internazionale Superiore Di Studi Avanzati, Trieste",Italy
+883,??cole Nationale Sup??rieure Des T??l??communications,France
+884,Limburgs Universitair Centrum,Belgium
+885,University Of Belgrade And Institute Of Nuclear Sciences-Boris Kidric,Serbia
+886,Technische Hochschule Wien,Austria
+887,Novorossisky University,Ukraine
+888,Prirodoslovno-Matemati??ki Fakultet,Croatia
+889,Hochschule Der Bundeswehr M??nchen,Germany
+890,Universidad De Almer??a,Spain
+891,Universit?? Libre De Bruxelles,null
+892,Unversit??t Saarbr??cken,Germany
+893,Technische Hochschule Breslau,Germany
+894,St. Petersburg State Pedagogical University,Russia
+895,"Institute Mathematics Acad. Of Science, Kazakhstan",Kazakhstan
+896,Universit??t Der Bundeswehr Hamburg,Germany
+897,Kurukshetra University,India
+898,"Romanian Academy Of Sciences, University Of Strathclyde",Romania
+899,University Of Stirling,Unitedkingdom
+900,Academia Sinica,China
+901,Florida International University,Unitedstates
+902,??cole Nationale Des Ponts Et Chauss??es,France
+903,Rush University,Unitedstates
+904,"Institute Of Mathematics And Mechanics, Azerbaijan Academy Of Sciences",Azerbaijan
+905,Hacettepe ??niversitesi,Turkey
+906,Universit?? De La M??diterran??e - Aix-Marseille Ii,France
+907,"Institute Of Mathematics, National Academy Of Sciences Of Armenia",Armenia
+908,Universit?? De Perpignan,France
+909,??cole Polytechnique - Ep Palaiseau - X,France
+910,University Of South Australia,Australia
+911,L'Universit?? D'Evry,France
+912,Universit?? Paris Vii,France
+913,Universit?? D'Angers,France
+914,Universit?? De Limoges,France
+915,Institut National Polytechnique De Grenoble,France
+916,Institut National Polytechnique De Toulouse,France
+917,Observatoire De Paris,France
+918,Universit?? De Valenciennes Et Du Hainaut-Cambr??sis,France
+919,Institut Fourier,France
+920,Universit?? Antilles-Guyane,France
+921,Universit?? De Besan??on,France
+922,Universit?? De Poitiers,France
+923,Universit?? D'Orl??ans,France
+924,??cole Nationale Sup??rieure De L'A??ronautique Et De L'Espace,France
+925,Vinh University,Vietnam
+926,Universit?? De Versailles Saint-Quentin-En-Yvelines,France
+927,Universit?? De Marne La Vall??e,France
+928,??cole Centrale,France
+929,L'Institut National De Recherche En Informatique Et En Automatique (Inria),France
+930,Alexandria University,Egypt
+931,Uzhgorod National University,Ukraine
+932,St. Petersburg State University,Germany
+933,Technische Universit??t Dresden,null
+934,Kishinev State University,Moldova
+935,Aristotle University Of Thessaloniki,Greece
+936,"Institute Of Cybernetics, National Academy Of Sciences Of Ukraine",Ukraine
+937,Universidad De Concepci??n,Chile
+938,Facult?? Polytechnique De Mons,Belgium
+939,Hochschule F??r Bodenkultur,Austria
+940,Slovak University Of Technology,Slovakia
+941,Universidad Central De Madrid,Spain
+942,University Of Tehran,Iran
+943,Rhodes University,Southafrica
+944,"Indian Institute Of Technology, Mumbai",India
+945,Inha University,Southkorea
+946,Landau Institute For Theoretical Physics,Russia
+947,Technische Hochschule Karl-Marx-Stadt,Germany
+948,Universidad De Las Islas Baleares,Spain
+949,Universidad De Oriente,Cuba
+950,"Peoples' Friendship University, Moscow",Russia
+951,Kathmandu University,Nepal
+952,"Indian Institute Of Technology, Madras",India
+953,Hungarian Academy Of Sciences And National University Of Kyiv,Hungary
+954,Univ. Paris Vi- Pierre Et Marie Curie,France
+955,Mucachevo State University,Ukraine
+956,"Karl Marx University Of Economics, Budapest",Hungary
+957,Irkutsk State University,Russia
+958,St. Petersburg State Polytechnic University,Russia
+959,Universit?? De Technologie De Compi??gne,France
+960,Universitatea Politehnica Din Bucuresti,Romania
+961,Tsinghua University,China
+962,Cranfield University,Unitedkingdom
+963,Universit?? Paris Xi,France
+964,Ethnicon Metsovion Polytechnion,Greece
+965,University Of Greenwich,Unitedkingdom
+966,Brandenburgische Technische Universit??t Cottbus,Germany
+967,??cole Normale Superieure De Cachan,null
+968,Technische Universit??t Carolo-Wilhelmina Zu Braunschweig And Universit??t Fridericiana Zu Karlsruhe,Germany
+969,Universit?? Di Catania,Italy
+970,Keldysh Institute Of Applied Mathematics,Russia
+971,Universidad De Extremadura,Spain
+972,Universit??t St.Gallen,Switzerland
+973,North-Eastern Hill University,India
+974,Ingenieurhochschule Mittweida,Germany
+975,Hochschule F??r Finanzwirtschaft Berlin,Germany
+976,University Of Plovdiv,Bulgaria
+977,University Of Cyprus,Cyprus
+978,Minia University,Egypt
+979,Universidad De Murcia,Spain
+980,Universit?? Du Qu??bec ?€ Montr??al,Canada
+981,University Of Ni??,Serbia
+982,Polska Akademia Nauk,Poland
+983,University Of Tunis,Tunisia
+984,University Of Skopje,Macedonia
+985,University Of Pristina,Serbia
+986,University Of Kragujevac,Serbia
+987,Universit??t Fulda,Germany
+988,Gorakhpur University,India
+989,Universit??t Altdorf,Germany
+990,Acad??mie Royale Des Sciences De Paris,France
+991,Kemerovo State University,Russia
+992,University Of Limerick,Ireland
+993,Universit?? De Nanterre - Paris X,France
+994,Universit?? De Paris And ??cole Polytechnique,France
+995,University Of Otago,Newzealand
+996,"Vietnam National University, Hanoi",Vietnam
+997,University Of Aston,Unitedkingdom
+998,Karl-Ferdinand-Universit??t Prag,Czechrepublic
+999,Medizinische Hochschule Hannover,Germany
+1000,Shefeild University,Unitedkingdom
+1001,Universit??t Koblenz-Landau,Germany
+1002,Slovak Institute Of Technology,Slovakia
+1003,Imperial College And Moscow State University,Unitedkingdom
+1004,Harvard University And Massachusetts Institute Of Technology,Unitedstates
+1005,"Eidgen??ssische Technische Hochschule Z??rich, Technische Universit??t Berlin",Switzerland
+1006,Rostov State University,Russia
+1007,Universit??t Zu L??beck,Germany
+1008,"Facult?? Des Sciences, Orsay",France
+1009,Xi'An Jiaotong University,China
+1010,Pontif??cia Universidade Cat??lica Do Rio De Janeiro,Brazil
+1011,Universit?? Cadi Ayyad,Morocco
+1012,Universidade Federal De S??o Carlos,Brazil
+1013,Universit?? De Perpignan And Tikrit University,France
+1014,Institut National Des Sciences Appliquees De Toulouse,France
+1015,Universit?? Des Sciences Et Technologie De Lille-Lille I,Italy
+1016,Universit?? Di Milano,France
+1017,Universit?? De Montpellier,France
+1018,Hanoi University Of Education  (Dai Hoc Su Pham Ha Noi),Vietnam
+1019,F??rat University,Turkey
+1020,All-Russian Scientific Research Institute Of Automation (Vniia),Russia
+1021,J??zsef N??dor M??szaki ??s Gazdas??gtudom??nyi Egyetem,Hungary
+1022,Krasnoyarsk State University,Russia
+1023,S??rospatak,Hungary
+1024,Uniwersytet ??l??ski,Poland
+1025,Shandong University,China
+1026,J??zsef Attila University,Hungary
+1027,Moscow State Pedagogical University,Russia
+1028,Nottingham Trent University,Unitedkingdom
+1029,Instituto Venezolano De Investigaciones Cientificas (Ivic),Venezuela
+1030,Inonu University,Turkey
+1031,Universit?? Libre De Bruxelles And Universit?? Paul Sabatier - Toulouse Iii,Belgium
+1032,The University Of Electro-Communications,Japan
+1033,University Of Pune,India
+1034,Kejserliga Alexanders-Universitetet I Finland,Finland
+1035,??bo Kungliga Akademi,Finland
+1036,University Of Ibadan,Nigeria
+1037,University Of Tulsa,Unitedstates
+1038,Technische Universit??t Kaiserslautern,Germany
+1039,Universit?? Blaise Pascal And Universidad Nacional De Ingenieria,France
+1040,University Of Glamorgan,Unitedkingdom
+1041,National Cheng Kung University,Taiwan
+1042,Universitat Pompeu Fabra,Spain
+1043,Instituto Tecnol??gico De Estudios Superiores De Monterrey,Mexico
+1044,Universit?? Denis Diderot - Paris Vii,null
+1045,University Of New England,Australia
+1046,Universidad Nacional De San Luis,Argentina
+1047,"National University Of Ireland, Galway",Ireland
+1048,"National Academy Of Sciences, Warsaw",Poland
+1049,P??dagogische Hochschule Dresden,Germany
+1050,Pozna?? University Of Technology,Poland
+1051,Universit?? De Grenoble,France
+1052,Baku State University,Azerbaijan
+1053,Tomsk State University,Russia
+1054,University Of Guelph,Canada
+1055,University Of Dhaka,Bangladesh
+1056,Universit?? Du Qu??bec ?€ Trois-Rivi??res,Canada
+1057,Technical University Of Warsaw,Poland
+1058,Montanuniversit??t Leoben,Austria
+1059,Banasthali Vidyapith,India
+1060,Instituto Superior T??cnico,Portugal
+1061,Hochschule F??r Philosophie M??nchen,Germany
+1062,Hong Kong University Of Science And Technology,Hongkong
+1063,University Of Pretoria,Southafrica
+1064,Universit?? Degli Studi Di Parma,Italy
+1065,Universidad De Castilla - La Mancha,Spain
+1066,Tokyo Denki University,Japan
+1067,King Fahd University Of Petroleum And Minerals,Saudiarabia
+1068,The City University Of London,Unitedkingdom
+1069,Yaroslavl State University,Russia
+1070,Texas A&M University - Corpus Christi,Unitedstates
+1071,Universidad Aut??noma Metropolitana-I,Mexico
+1072,Universidad Aut??noma Metropolitana,Mexico
+1073,Tula State Pedagogical University,Russia
+1074,Goa University,India
+1075,"Jai Narain Vyas University, Jodhpur",India
+1076,"University Of Haifa, Indiana University",Israel
+1077,Universidade Do Minho,Portugal
+1078,Albertus-Universit??t Zu K??nigsberg I. Pr.,Germany
+1079,Northeast Normal University,China
+1080,"University Of California, San Francisco",Unitedstates
+1081,The University Of The West Indies,Trinidadtobago
+1082,Indian Institute Of Technology Delhi,India
+1083,Jilin University,China
+1084,University Of British Columbia And University Of Ottawa,Canada
+1085,Silesian University Of Technology,Poland
+1086,Montreal Neurological Institute,Canada
+1087,Brunel University,Unitedkingdom
+1088,Handels-Hochschule Berlin,Germany
+1089,P??dagogische Hochschule Schw??bisch Gm??nd,Germany
+1090,University Of Maine,Unitedstates
+1091,University Of Tabriz,Iran
+1092,Rani Durgavati Vishwavidyalaya,India
+1093,Universit?? Mulhouse,France
+1094,Athenaeum Illustre Amsterdam,Netherlands
+1095,Universiteit Leiden,null
+1096,??cole Des Mines De Nantes,France
+1097,University Of Texas At El Paso,Unitedstates
+1098,"Institute Of Electronic Technology, Moscow",Russia
+1099,Minsk State University,Belarus
+1100,Georg-August-Universit??t G??ttingen,null
+1101,Institute Of Biophysics Ran,Russia
+1102,Nizhnii Novgorod State Pedagogical University,Russia
+1103,Samara State University,Russia
+1104,Universidad Miguel Hernandez De Elche,Spain
+1105,University Of Rajasthan,India
+1106,Kuibyshev State Pedagogical Institute,Russia
+1107,Universit?? Di Roma Tor Vergata,Italy
+1108,Islamic Azad University,Iran
+1109,Ferdowsi University Of Mashhad,Iran
+1110,Kyungpook National University,Southkorea
+1111,Rijksuniversiteit Limburg,Netherlands
+1112,Radboud Universiteit Nijmegen,Netherlands
+1113,Vikram University,India
+1114,East China University Of Science And Technology,China
+1115,??cole Normale Sup??rieure De Hanoi,Vietnam
+1116,Lancaster University,Unitedkingdom
+1117,University Of Capetown,Southafrica
+1118,Technical University In Berlin,Germany
+1119,Tokyo Institute Of Technology,Japan
+1120,Euskal Herriko Unibertsitatea,Spain
+1121,St. Petersburg Institute Of Mines,Russia
+1122,"Institute Of Mathematics, Tashkent",Uzbekistan
+1123,Omsk State University,Russia
+1124,Andhra University At Waltair,India
+1125,Eastern Mediterranean University,Turkey
+1126,Sakarya University,Turkey
+1127,Kobe University,Japan
+1128,Universit??t Klagenfurt,Austria
+1129,University Of The Aegean,Greece
+1130,Harbin Institute Of Technology,China
+1131,Ivanovo State University,Russia
+1132,University Of Craiova,Romania
+1133,"Institute Of Theoretical And Applied Mathematics, Almaty",Kazakhstan
+1134,Loughborough University,Unitedkingdom
+1135,Universidade Federal Do Cear??,Brazil
+1136,University Of Lw??w,Ukraine
+1137,"Universit?? Mohamed Premier, Oujda",Morocco
+1138,Universit?? D'Alger,Algeria
+1139,"Queen Mary, University Of London",Unitedkingdom
+1140,Krasnoyarsk State Technical University,Russia
+1141,Cheju National University,Southkorea
+1142,Swedish University Of Agricultural Sciences,Sweden
+1143,Karolinska Institutet,Sweden
+1144,The Robert Gordon University,Unitedkingdom
+1145,New Mexico School Of Mining And Technology,Unitedstates
+1146,Academia De Ciencias De Cuba,Cuba
+1147,Odessa Construction Engineering Institute,Ukraine
+1148,P??dagogische Universit??t Halle,Germany
+1149,University Of The Incarnate Word,Unitedstates
+1150,Universit?? De Picardie Jules Verne,France
+1151,"Central Economics And Mathematics Institute, Russian Academy Of Science",Russia
+1152,University Of Texas School Of Public Health,Unitedstates
+1153,Universit?? Del Salento,Italy
+1154,Royal Melbourne Institute Of Technology,Australia
+1155,Harvard University And Stanford University,Unitedstates
+1156,University Of Jammu,India
+1157,P??zm??ny P??ter University,Hungary
+1158,The Union Institute,Unitedstates
+1159,"Presidency College, Chennai",India
+1160,Hanken,Finland
+1161,"Institute For Problems Of Information Transmission, Moscow",Russia
+1162,Utkal University,India
+1163,National Taiwan Normal University,Taiwan
+1164,Hokkaido University,Japan
+1165,"Teacher Training University, Tehran",Iran
+1166,S??leyman Demirel University,Turkey
+1167,Eski??ehir Osmangazi University,Turkey
+1168,Tanta University,Egypt
+1169,"Universit?? Abou Bekr Belkaid, Tlemcen",Algeria
+1170,Universit?? Hassan Ii A??n Chock De Casablanca,Morocco
+1171,University Of Surrey,Unitedkingdom
+1172,Woods Hole Oceanographic Institution,null
+1173,"Indian Statistical Institute, Kolkata",India
+1174,"Institute For Theoretical Physics, Lviv",Ukraine
+1175,Akademie Der P??dagogischen Wissenschaften In Berlin,Germany
+1176,U.S.T.H.B. (University Of Sciences And Technology) Algiers,Algeria
+1177,Shahid Beheshti University,Iran
+1178,A. Razmadze Mathematical Institute Of The Georgian Academy Of Sciences,Georgia
+1179,"Scuola Normale Superiore, Pisa - Universit?? Di Napoli",Italy
+1180,Universit?? Nationale De Cote D'Ivoire,Coted'Ivoire
+1181,University Of Jyv??skyl??,Finland
+1182,"Institute Of Mathematics And Informatics, Bulgarian Academy Of Sciences",Bulgaria
+1183,Tula State University,Russia
+1184,Indian Institute Of Management Calcutta,India
+1185,Istanbul University,Turkey
+1186,Akademia Pedagogiczna W Krakowie,Poland
+1187,Atat??rk ??niversitesi,Turkey
+1188,University Of Annaba,Algeria
+1189,University Of Texas At San Antonio,Unitedstates
+1190,Marmara ??niversitesi,Turkey
+1191,Universidad De Alicante,Spain
+1192,Centro Brasileiro De Pesquisas Fisicas,Brazil
+1193,"University Of Arkansas, Saratov State University",Russia
+1194,Waseda University,Japan
+1195,Ajou University,Southkorea
+1196,Weierstra??-Institut F??r Angewandte Analysis Und Stochastik,Germany
+1197,Yaroslavl Pedagogical Institute,Russia
+1198,Moscow Institute Of Electronics And Mathematics,Russia
+1199,"University Of Technologies And Design, Kiev",Ukraine
+1200,Vilnius Institute Of Mathematics And Cybernetics,Lithuania
+1201,Harvard University,France
+1202,Universit?? Paris Vi - Pierre Et Marie Curie|,Unitedstates
+1203,"Florida State University, Helsingin Yliopisto",Unitedstates
+1204,Mt. Sinai School Of Medicine,Unitedstates
+1205,Universitat Polit??cnica De Val??ncia,Spain
+1206,Universit?? Degli Studi Di Siena,Italy
+1207,Nanjing University,China
+1208,Victoria University Of Wellington,Newzealand
+1209,Kyushu University,Japan
+1210,Universidade Dos A??ores,Portugal
+1211,Romanian Academy Of Sciences,Romania
+1212,Universit?? Paris Xiii,null
+1213,University Of The Western Cape,Southafrica
+1214,Insead,France
+1215,University Of Missouri - Columbia---Charles University,Unitedstates
+1216,Handelshochschule Leipzig,Germany
+1217,"University Of Warwick And Queen Mary, University Of London",Unitedkingdom
+1218,Karl-Marx-Universit??t In Budapest,Hungary
+1219,Technische Hochschule Leipzig,Germany
+1220,Ingenieurhochschule Dresden,Germany
+1221,Lappeenranta University Of Technology,Finland
+1222,??cole Normale Superieure De Cachan,null
+1223,Universidad Del Pais Vasco,Spain
+1224,Almaty State University,Kazakhstan
+1225,Universidad De Buenos Aires And Universit?? Aix-Marseille,Argentina
+1226,Universit?? Paris Vi - Pierre Et Marie Curie And ??cole Normale Sup??rieure,France
+1227,Uniwersytet ????dzki,Poland
+1228,Universidad Nacional De Colombia,Colombia
+1229,"Universit?? Di Padova, Universit??t Wien",Austria
+1230,??cole Normale Sup??rieure Polytechnique Antsiranana,Madagascar
+1231,Universit?? De Bretagne Occidentale,France
+1232,Universidade Federal Do Par??,Brazil
+1233,Jadavpur University,India
+1234,University Of Puerto Rico At Mayaguez,Unitedstates
+1235,Universidade Da Coru??a,Spain
+1236,Shahrekord University,Iran
+1237,Universidad Rey Juan Carlos,Spain
+1238,Uniwersytet Im. Adama Mickiewicza,Poland
+1239,Blekinge Institute Of Technology,Norway
+1240,Ibn Tofail University,Morocco
+1241,Sardar Patel University,India
+1242,Conservatoire National Des Arts Et Metiers,France
+1243,Beijing Normal University,China
+1244,Shanghai University,China
+1245,Feng Chia University,Taiwan
+1246,University Of Salford,Unitedkingdom
+1247,Universit?? Degli Studi Di Roma,Italy
+1248,Universit?? Aix-Marseille Iii,France
+1249,University Of Sfax,Tunisia
+1250,"Universidade Estadual Paulista, Rio Claro",Brazil
+1251,Universidad Pablo De Olavide,Spain
+1252,Hiroshima National University,Japan
+1253,Institut De Math??matiques De Jussieu,France
+1254,Kyiv Taras Shevchenko University,Ukraine
+1255,??ukurova Universitesi,Turkey
+1256,University Of Amsterdam,Netherlands
+1257,Santa Clara University,Unitedstates
+1258,"National University Of Ireland, Maynooth",Ireland
+1259,Saraswathi Narayanan College,India
+1260,University Of Tsukuba,Japan
+1261,Zurich Polytechnikum,Switzerland
+1262,Universit?? Paul Sabatier,France
+1263,Universit?? De Toulouse,France
+1264,Meiji University,Japan
+1265,Institute Physics And Mathematics As Lithuania,Lithuania
+1266,National Taiwan University,Taiwan
+1267,Institut National Des Sciences Appliqu??es De Rouen,France
+1268,Universit?? Victor Segalen Bordeaux 2,France
+1269,Victoria University,Australia
+1270,Universit?? Cheikh Anta Diop,Senegal
+1271,"Siberian Mathematical Institut, Novosibirsk",Russia
+1272,Universit?? Di Salerno,Italy
+1273,Obafemi Awolowo University,Nigeria
+1274,Universit?? Catholique De Louvain,null
+1275,Universit?? De Ouagadougou,Burkinafaso
+1276,Universit?? De Cocody,Coted'Ivoire
+1277,Universit?? De Mons-Hainaut,Belgium
+1278,Universit?? De Dakar,Senegal
+1279,Universit?? D'Abomey,Benin
+1280,Agricultural University Of Norway,Norway
+1281,Institut De Math??matiques Et De Sciences Physiques,Benin
+1282,Kenyatta University,Kenya
+1283,Universit?? De Lille Iii,France
+1284,Makerere University,Uganda
+1285,Texas Southern University,Unitedstates
+1286,Federal University Of Technology,Nigeria
+1287,Universit?? D'Abidjan,Coted'Ivoire
+1288,Tambov State University,Russia
+1289,Perm State Technical University,Russia
+1290,Universit?? Paris Vi- Pierre Et Marie Curie,null
+1291,Universit?? D'Antananarivo,Madagascar
+1292,Universit?? De Bamako,Mali
+1293,Deakin University,Australia
+1294,Slovak University,Slovakia
+1295,"Universit?? De Tunis, Universit?? Claude Bernard",Tunisia
+1296,Universit?? De Yaound??,Cameroon
+1297,Universit?? De Yaound?? I,Cameroon
+1298,Universit?? Gaston Berger,Senegal
+1299,Hochschule F??r Elektronischen Maschinenbau Moskau,Russia
+1300,Humboldt-Universit??t Zu Berlin,null
+1301,"Research Computing Center, Pushchino",Russia
+1302,Fachhochschule Zittau,Germany
+1303,Universit?? De Clermont,France
+1304,University Of Ilorin,Nigeria
+1305,University Of Agriculture,Unitedkingdom
+1306,University Of Keele,Unitedkingdom
+1307,University Of Nigeria,Nigeria
+1308,University Of Durban-Westville,Southafrica
+1309,University Of Mauritius,Mauritius
+1310,University Of Nairobi,Kenya
+1311,University Of Kwazulu-Natal,Southafrica
+1312,University Of Dar Es Salaam,Tanzania
+1313,University Of Zimbabwe,Zimbabwe
+1314,University Of Brighton,Unitedkingdom
+1315,St. Petersburg Technical University,Russia
+1316,University Of Baghdad,Iraq
+1317,Ivanovo Pedagogical Institute,Russia
+1318,Nanchang University,China
+1319,Kiev Polytechnic Institute,Ukraine
+1320,Universidad De C??diz,Spain
+1321,"University Of Oxford, Christ Church",Unitedkingdom
+1322,St. Petersburg State University - Michigan State University,Russia
+1323,Rajshahi University,Bangladesh
+1324,Serbian Academy Of Sciences,Serbia
+1325,Universidad Nacional De Rosario,Argentina
+1326,University Of Berne,Switzerland
+1327,Politecnico Di Torino,Italy
+1328,"Universit?? De Provence - Aix-Marseille I, Cornell University",France
+1329,Moscow Institute Of Mechanics,Russia
+1330,"Institute Of Mathematics, Hanoi",Vietnam
+1331,"University Of Techonology, Sydney",Australia
+1332,Sophia University,Japan
+1333,Universidad Nacional De Educaci??n A Distancia,Spain
+1334,Nanyang Technological University,Singapore
+1335,Universidad Complutense De Madrid And Universit?? Paris Vi - Pierre Et Marie Curie,Spain
+1336,Universidad Nacional Del Sur,Argentina
+1337,"Universit?? Di Padova, Universit?? Paul Sabatier - Toulouse Iii",Italy
+1338,Tokyo University Of Education,Japan
+1339,Inpl Nancy,France
+1340,National Chung Cheng University,Taiwan
+1341,Instituto Tecnol??gico De Aeron??utica,Brazil
+1342,Universidade Federal De Minas Gerais,Brazil
+1343,Sidi Bel Abbes University,Algeria
+1344,Latvian State University,Latvia
+1345,"The Institute Of Mathematical Sciences, Chennai",India
+1346,Universidad De Deusto,Spain
+1347,Institute For Low Temperature Physics And Engineering,Ukraine
+1348,Insa De Lyon,France
+1349,"Universit?? Denis Diderot - Paris Vii, Universit?? Di Milano",Italy
+1350,"Institute For Parallel Processing, Bulgarian Academy Of Sciences",Bulgaria
+1351,Georg-August-Universit??t G??ttingen And Universidad Complutense De Madrid,Germany
+1352,Universitat De Palma De Mallorca,Spain
+1353,International University Bremen,Germany
+1354,"Ciatej, Universidad De Guadalajara",Mexico
+1355,Universidad De Guadalajara,Mexico
+1356,Universit?? Pantheon-Sorbonne : Paris I And Universit?? De Lille I,France
+1357,Tadzhik State University,Tajikistan
+1358,Ain Shams University,Egypt
+1359,Katholieke Universiteit Leuven And Universiteit Van Amsterdam,Belgium
+1360,Brescia University,Unitedstates
+1361,University Of Ioannina,Greece
+1362,"Universidade Federal De Pernambuco, Recife And University Of Calgary",Brazil
+1363,Iran University Of Science And Technology,Iran
+1364,??cole Normale Sup??rieure De Saint Cloud,France
+1365,Suranaree University Of Technology,Thailand
+1366,King Mongkut'S University Of Technology,Thailand
+1367,Universit?? Technologique De Compiegne,France
+1368,Saratov State University,Russia
+1369,University Of Zielona G??ra,Poland
+1370,University Of Science And Technology Of China,China
+1371,Ussr Gosstandard,Russia
+1372,Kingston University,Unitedkingdom
+1373,King Mongkut'S University Of Technology Thonburi,Thailand
+1374,Universit?? Di Udine,Italy
+1375,Danmarks P??dagogiske Universitet,Denmark
+1376,Alexandru Ioan Cuza University Of Iasi And Universiteit Leiden,Romania
+1377,Academy Of Sciences Of The Czech Republic,Czechrepublic
+1378,Marathwada University,India
+1379,Universit?? Henri Poincar?? Nancy 1 And L'Institut National De Recherche En Informatique Et En Automatique (Inria),France
+1380,Chelyabinsk State University,Russia
+1381,Instituto Balseiro,Argentina
+1382,Johannes-Gutenberg-Universit??t Mainz,Germany
+1383,Philipps-Universit??t Marburg,null
+1384,Universit?? Degli Studi Di Siena,Unitedstates
+1385,University Of Delaware,Italy
+1386,National Central University,Taiwan
+1387,Oxford Brookes University,Unitedkingdom
+1388,Chulalongkorn University,Thailand
+1389,National College Of Business Administration & Economics,Pakistan
+1390,Pacific Western University,Unitedstates
+1391,Universit?? Di Milano Bicocca,Italy
+1392,Taras Shevchenko National University Of Kyiv,Ukraine
+1393,Karl Marx University Of Leipzig,Germany
+1394,Chonnam National University,Southkorea
+1395,National Chengchi University,Taiwan
+1396,The Abdus Salam International Centre For Theoretical Physics,Italy
+1397,Institut De Math??matiques Et De Sciences Physiques And The Abdus Salam International Centre For Theoretical Physics,Benin
+1398,"Universit??t Kaiserslautern, University Of California, Davis",Germany
+1399,London South Bank University,Unitedkingdom
+1400,Yildiz Technical University,Turkey
+1401,University Of Hertfordshire,Unitedkingdom
+1402,Singapore University And Massachusetts Institute Of Technology Alliance,Singapore
+1403,Samara State Pedagogical University,Russia
+1404,Voronezh State Technological Institute,Russia
+1405,Mordovia State University,Russia
+1406,Vilnius Gediminas Technical University,Lithuania
+1407,Anadolu University,Turkey
+1408,Vilniaus Pedagogical Institute,Lithuania
+1409,Yonsei University,Southkorea
+1410,Universidad De Santiago De Chile,Chile
+1411,The National University Of Uzbekistan,Uzbekistan
+1412,Universidade Do Estado Do Rio De Janeiro,Brazil
+1413,University Of St. Cyril And Methodius,Macedonia
+1414,University Of South Brittany,France
+1415,Berhampur University,India
+1416,Universit?? Degli Studi Di Milano,Italy
+1417,Universit?? Degli Studi Di Perugia,Italy
+1418,Universit?? Paris Xiii,null
+1419,Universidade T??cnica De Lisboa,Portugal
+1420,Transilvania University Of Brasov,Romania
+1421,Wuhan University,China
+1422,Hasselt University,Belgium
+1423,El-Mansoura University,Egypt
+1424,Balikesir University,Turkey
+1425,University Of Calabar,Nigeria
+1426,Abant Izzet Baysal University,Turkey
+1427,"University Of Nevada, Las Vegas",Unitedstates
+1428,Turun Kauppakorkeakoulu,Finland
+1429,Coll??ge Saint-Guillaume ?€ Strasbourg,null
+1430,Kuvempu University,India
+1431,Instituto De Matem??tica E Estat??stica,Brazil
+1432,Tamkang University,Taiwan
+1433,L'??cole Doctorale De Math??matiques Et Informatique De Marseille,France
+1434,Univerzita Pavla Jozefa ??af??rika V Ko??iciach,Slovakia
+1435,Instituto Superior Polit??cnico Jos?? Antonio Echeverr??a,Cuba
+1436,"Institute Of Mathematics, Slovak Academy Of Sciences",Slovakia
+1437,Accademia Romana,null
+1438,Universit??t Ingolstadt,Germany
+1439,Albert-Ludwigs-Universit??t Freiburg Im Breisgau,null
+1440,Sanjay Gandhi Postgraduate Institute Of Medical Sciences,India
+1441,Universit?? De Paris,null
+1442,"University Pedagogical School, Katowice",Poland
+1443,Universit?? Paris Est,France
+1444,Mystras,Greece
+1445,Accademia Romana,null
+1446,University Of Shumen,Bulgaria
+1447,Constantinople,Italy
+1448,Universit?? Di Mantova,null
+1449,Universit??t Erfurt,Germany
+1450,Technische Universit??t Dortmund,Germany
+1451,Gazi University,Turkey
+1452,University Of Piraeus,Greece
+1453,Universiteit Leiden,null
+1454,University Of Mysore,India
+1455,Universit?? De Bourges,null
+1456,Universit?? Di Bologna,null
+1457,"Royal Holloway, University Of London",Unitedkingdom
+1458,Universitat Rovira I Virgili,Spain
+1459,Mid Sweden University,Sweden
+1460,Universit?? Di Pisa And ??cole Polytechnique,Italy
+1461,Universit?? Hassan Ii Ben M'Sik- Casablana,Morocco
+1462,University Of Kerala,India
+1463,University Of Cambridge,null
+1464,Osaka City University,Japan
+1465,Lanzhou University,China
+1466,Instituto Polit??cnico Nacional,Mexico
+1467,Coll??ge Saint-Guillaume ?€ Strasbourg,France
+1468,??cole Normale Sup??rieure Takaddoum,Morocco
+1469,Universit?? Degli Studi Di Napoli Federico Ii,Italy
+1470,Universit??t Karlsruhe,Germany
+1471,Southeast University,China
+1472,Uniwersytet Gda??ski,Poland
+1473,Universitatea Din Pitesti,Romania
+1474,University Of Szeged,null
+1475,Universidade De Cabo Verde,Cape Verde
+1476,Swinburne University,Australia
+1477,University Of Zilina,Slovakia
+1478,Pusan National University,Southkorea
+1479,"Novosibirsk State University, Russian Academy Of Science Siberian Branch",Russia
+1480,Moscow Energy Institute,Russia
+1481,Universit?? Di Genova And Universit?? Di Torino And Politecnico Di Torino,Italy
+1482,Moscow Aviation Institute,Russia
+1483,"Institute Of Mathematics, Erevan",Armenia
+1484,Kauno Technologijos Universitetas,Lithuania
+1485,Uniwersytet ??l??ski W Katowicach,Poland
+1486,Ondokuzmayis University,Turkey
+1487,University Of Le Havre,France
+1488,M??lardalens H??gskola,Sweden
+1489,Memphis State University,Unitedstates
+1490,Griffith University,Australia
+1491,Universidade Nova De Lisboa,Portugal
+1492,Universitat Jaume I De Castell??n,Spain
+1493,Scuola Normale Superiore Di Pisa And Escuela Polit??cnica Nacional-Quito,Italy
+1494,Universit?? Degli Studi Di Ferrara,Italy
+1495,Faculty Of Sciences Of Tunis,Tunisia
+1496,Vilnius University,Lithuania
+1497,Central European University,Hungary
+1498,University Of Lyon 1,France
+1499,"Palack?? University, Olomouc",Czechrepublic
+1500,Universidad Nacional Del Centro De La Provincia De Buenos Aires,Argentina
+1501,Kyrgyz State National University,Kyrgyzstan
+1502,Universit?? De Bretagne-Sud,France
+1503,Universit?? Degli Studi Di Roma Tre,Italy
+1504,Chennai Mathematical Institute,India
+1505,Institute Of Mathematics Of Academy Sciences Of Uzbekistan,Uzbekistan
+1506,National Changhua University Of Education,Taiwan
+1507,Petrozavodsk University,Russia
+1508,Naresuan University,Thailand
+1509,Frankfurt School Of Finance & Management,Germany
+1510,Helsinki University Of Technology,Finland
+1511,Korea Aerospace University,Korea
+1512,Hangzhou University,China
+1513,Institute Of Technology Tralee,Ireland
+1514,Universit?? Di Pisa And Universit?? Bordeaux 1,Italy
+1515,Universitat De Val??ncia,Catalonia
+1516,"Faculty Of Science, Rabat",Morocco
+1517,Universidad Polit??cnica De Cartagena,Spain
+1518,Technische Universit??t Carolo-Wilhelmina Zu Braunschweig And Universit?? De Technologie De Compi??gne,Germany
+1519,University Of Ballarat,Australia
+1520,"Institute Of Economy, Ukrainian Academy Of Science",Ukraine
+1521,Hitotsubashi University,Japan
+1522,University Of Louisville,Unitedstates
+1523,Handelsh??gskolan I Stockholm,Sweden
+1524,Depaul University,Unitedstates
+1525,Universidad Cat??lica Del Norte,Chile
+1526,University Of Kalyani,India
+1527,Yuzuncu Yil University,Turkey
+1528,University Of Helsinki,Finland
+1529,"Indian Institute Of Technology, Guwahati, India",India
+1530,"Kaiser Wilhelm Institute For Physics, Berlin, Germany",Germany
+1531,Bharathiar University,India
+1532,??cole Polytechnique And Universit?? C?? Foscari Venezia,France
+1533,Woods Hole Oceanographic Institution,null
+1534,Woods Hole Oceanographic Institution,null
+1535,Woods Hole Oceanographic Institution,null
+1536,Woods Hole Oceanographic Institution,null
+1537,"Birla Institute Of Technology, Pilani",India
+1538,Japan Advanced Institute Of Science And Technology,Japan
+1539,Universit?? Paris Xiii,null
+1540,Universit?? Paris Xiii,null
+1541,Gebze Institute Of Technology,Turkey
+1542,Vienna,Austria
+1543,Shivaji University,India
+1544,Ecole Nationale Sup??rieure Des Mines De Saint-Etienne,France
+1545,Case Institute Of Technology,Unitedstates
+1546,Institut Eur??com,France
+1547,Polytechnic Institute Of New York University,Unitedstates
+1548,Universita' Di Brescia,Italy
+1549,Isfahan University Of Technology,Iran
+1550,"Universit?? De Niamey, Niger",Niger
+1551,Oregon Graduate Institute Of Science & Technology,Unitedstates
+1552,"University Of Mongolia, Ulaan Baator",Mongolia
+1553,Universitetet I Troms??,Norway
+1554,Universit?? De Nice-Sophia Antipolis And ??cole Polytechnique,France
+1555,East China Normal University,China
+1556,Tomsk Politechnical University,Russia
+1557,Universidad Aut??noma De San Luis Potos??,Mexico
+1558,Technische Hochschule Danzig,Poland
+1559,Rijksuniversiteit Groningen And Universit?? Paul Sabatier - Toulouse Iii,Netherlands
+1560,Universidade De ??vora,Portugal
+1561,University Of Bejaia,Algeria
+1562,Polytechnical School Algiers,Algeria
+1563,University Of Aberdeen And Universit?? Claude Bernard - Lyon 1,Unitedkingdom
+1564,Universit??t Paderborn And Universit?? Paul Verlaine - Metz,Germany
+1565,Amirkabir University Of Technology (Tehran Polytechnic University),Iran
+1566,Universit?? Paris-Sud Xi - Orsay And L'Institut National De Recherche En Informatique Et En Automatique (Inria),France
+1567,Universidade Do Algarve,Portugal
+1568,"Institute For Infomatics And Automation Problems, Armenian National Academy Of Sciences",Armenia
+1569,The University Of North Carolina At Greensboro,Unitedstates
+1570,Novosibirsk State University And University Of Tennessee - Knoxville,Russia
+1571,Universit?? - Lyon I,France
+1572,Jacobs University Bremen,Germany
+1573,Hong Kong Baptist University,Hongkong
+1574,Georg-August-Universit??t G??ttingen And Universit?? Montpellier Ii,Germany
+1575,Warsaw School Of Economics,Poland
+1576,Kharazmi University,Iran
+1577,Indian Institute Of Technology Guwahati,India
+1578,"Kiev Institute Of Civil Aviation Engineers, Kiev",Russia
+1579,Universit?? Tunis-El Manar,Tunisia
+1580,Krasnoyarsk State Pedagogical Institute,Russia
+1581,King Saud University,Saudiarabia
+1582,University Of Iowa And University Of Science And Technology Of China,Unitedstates
+1583,Univerzity Komensk??ho V Bratislave,Slovakia
+1584,Tarbiat Moallem University,Iran
+1585,"Facultes Universitaires Notre-Dame De La Paix, Namur, Belgium",Belgium
+1586,The Victoria University Of Manchester,Unitedkingdom
+1587,Ko?? University,Turkey
+1588,Universidad De Navarra,Spain
+1589,"Indian Institute Of Science, Bangalore And University Of California, Santa Barbara",India
+1590,Williams College,Unitedstates
+1591,Istanbul Kultur University,Turkey
+1592,"Indian Statistical Institute, Delhi Centre And Shanghai University",India
+1593,Moscow State University And Universit?? Joseph Fourier Grenoble I,Russia
+1594,Srinakharinwirot University,Thailand
+1595,Umm Al-Qura University,Saudiarabia
+1596,Girls College Of Education In Jeddah,Saudiarabia
+1597,Al-Farabi Kazakh National University,Kazakhstan
+1598,Edith Cowan University,Australia
+1599,Politechnika ????dzka,Poland
+1600,Max Planck Institut F??r Mathematik,null
+1601,Vasyl Stefanyk Precarpathian National University,Ukraine
+1602,Universit?? Jean Monnet - Saint-Etienne And ??cole Des Mines De Saint-??tienne,France
+1603,Universidad Polit??cnica De Val??ncia And Universit?? Denis Diderot - Paris Vii,Spain
+1604,"Institute Of Mathematics And Mechanics, Russian Academy Of Sciences Ural Branch",Russia
+1605,Rheinisch-Westf??lische Technische Hochschule Aachen And Universit?? Denis Diderot - Paris Vii,Germany
+1606,Universitat De Girona,Spain
+1607,Technische Universiteit Delft And Universiteit Maastricht And Universiteit Van Amsterdam,Netherlands
+1608,Al-Azhar University,Egypt
+1609,Suzhou University,China
+1610,Georg-August-Universit??t G??ttingen And Katholieke Universiteit Leuven,Germany
+1611,Escuela Polit??cnica Nacional-Quito,Ecuador
+1612,"University Of Westminster, London",Unitedkingdom
+1613,Nizhni Novgorod Nikolai Ivanovich Lobachevski University,Russia
+1614,Langensalza,Germany
+1615,Chongqing University,China
+1616,Universidade Da Beira Interior,Portugal
+1617,Universidade Aberta,Portugal
+1618,Centro De Investigaci??n Y De Estudios Avanzados Del Instituto Polit??cnico Nacional,Mexico
+1619,"Facult?? Des Sciences Ain Chock, Casablanca, Morocco",Morocco
+1620,Technische Universit??t Carolo-Wilhelmina Zu Braunschweig And Universit?? Di Firenze,Germany
+1621,Universit?? Paul Verlaine - Metz,France
+1622,Hasselt University And Universiteit Maastricht,Belgium
+1623,Rheinisch-Westf??lische Technische Hochschule Aachen And Universiteit Twente,Germany
+1624,University Of Guilan,Iran
+1625,A.A. Blagonravov Mechanical Engineering Institute Ras,Russia
+1626,University Of Pennsylvania And ??cole Polytechnique,Unitedstates
+1627,Technische Universit??t Carolo-Wilhelmina Zu Braunschweig And ??cole Normale Sup??rieure De Cachan And Universit?? Paris Est,Germany
+1628,Universit?? Paul Sabatier - Toulouse Iii And Institut De Math??matiques De Toulouse,France
+1629,University Of Johannesburg,Southafrica
+1630,Universit?? Di Pisa And Universit?? Rennes I,Italy
+1631,"Universit?? Rennes I And Universit?? Abdou Moumouni, Niamey",France
+1632,Azarbaijan Shahid Madani University,Azerbaijan
+1633,Columbia University And ??cole Polytechnique,Unitedstates
+1634,Universidad Nacional De Ingenieria,Peru
+1635,Funda????o Getulio Vargas,Brazil
+1636,Universidade Federal Do Rio Grande Do Sul And Universit?? D'Orl??ans,Brazil
+1637,"National Yunlin University Of Science And Technology, Taiwan",Taiwan
+1638,Universit?? Della Calabria,Italy
+1639,University Of Karachi,Pakistan
+1640,Nankai University,China
+1641,Lyceum Of Ljubljana,Slovenia
+1642,Universit?? De Corse Pascal Paoli,France
+1643,University Of Macau,Macao
+1644,Universit?? Di Palermo,Italy
+1645,Universitatea Ovidius Constanta,Romania
+1646,University Of Jordan,Jordan
+1647,Armenian State Pedagogical University,Armenia
+1648,Russian-Armenian (Slavonic) University,Armenia
+1649,State Engineering University Of Armenia,Armenia
+1650,University Of Arkansas At Little Rock,Unitedstates
+1651,Yerevan Polytechnic Institute,Armenia
+1652,Universit?? Pierre Mend??s France (Grenoble 2),France
+1653,Oklahoma State University And Temple University,Unitedstates
+1654,Northwestern Polytechnical University,China
+1655,Yerevan State University And State Engineering University Of Armenia,Armenia
+1656,Volgograd State University,Russia
+1657,"Federal Urdu University Of Arts, Sciences And Technology, Karachi",Pakistan
+1658,Vrije Universiteit Brussel And Universit?? D'Oran-Ess??nia,Belgium
+1659,University Of Aizu,Japan
+1660,Xidian University,China
+1661,"Institute For Advanced Studies In Basic Sciences, Zanjan, Iran",Iran
+1662,Universit?? Degli Studi Dell'Aquila And Universit?? Di Roma La Sapienza,Italy
+1663,Dokuz Eyl??l University,Turkey
+1664,"Abdus Salam School Of Mathematical Sciences Gc University, Lahore",Pakistan
+1665,"Research Institute For Symbolic Computation (Risc), Linz",Austria
+1666,El-Menoufia University,Egypt
+1667,Shahid Chamran University Of Ahvaz,Iran
+1668,Institut National De La Statistique Et Des Etudes Economiques,France
+1669,Shanghai Normal University,China
+1670,Centre National De La Recherche Scientifique,France
+1671,Budapest University Of Technology And Economics,Hungary
+1672,University Of Baroda,India
+1673,Chonbuk National University,Korea
+1674,Kyung Hee University,Southkorea
+1675,Polish Academy Of Sciences And University Of Warwick,Poland
+1676,Universidad Pontificia Comillas,Spain
+1677,Politechnika Warszawska And ??cole Nationale Sup??rieure Des Mines De Paris,Poland
+1678,Korea University,Southkorea
+1679,"University Of Economics, Prague",Czechrepublic
+1680,Delaware State University,Unitedstates
+1681,Tartu State University,Estonia
+1682,Technische Universit??t Karlsruhe And Universit?? De Franche-Comt??,Germany
+1683,Yerevan State University And Russian-Armenian (Slavonic) University,Armenia
+1684,Democritus University Of Thrace,Greece
+1685,University Of The Peloponnese,Greece
+1686,Technical University Of Sofia,Bulgaria
+1687,Polish-Japanese Institute Of Information Technology,Poland
+1688,Universidade Federal Do Esp??rito Santo,Brazil
+1689,Tribhuvan University,Nepal
+1690,Universidade Cat??lica De Bras??lia,Brazil
+1691,West Pomeranian University Of Technology,Poland
+1692,Universit?? Rennes I And Universit?? De Gen??ve,France
+1693,University Of Southwestern Louisiana,Unitedstates
+1694,"University Of Puerto Rico, Rio Piedras",Unitedstates
+1695,Humboldt-Universit??t Zu Berlin And Technische Universit??t Berlin,Germany
+1696,Osmania University,India
+1697,Homi Bhabha National Institute,India
+1698,Dalian University Of Technology,China
+1699,University Of The Basque Country And Universidad De Cienfuegos,Spain
+1700,Sharif University Of Technology And ??cole Polytechnique,Iran
+1701,Hampton University,Unitedstates
+1702,Shahid Bahonar University,Iran
+1703,"Central South University, China",China
+1704,Universidad De Alcal??,Spain
+1705,Universidad De Chile And Universit?? Henri Poincar?? Nancy 1,Chile
+1706,H??gskolan I Sk??vde,null
+1707,H??gskolan I Sk??vde,null
+1708,Universidade Federal Fluminense,Brazil
+1709,H??gskolan I Sk??vde,null
+1710,Chalmers Tekniska H??gskola And G??teborg Universitet,Sweden
+1711,Sichuan University,China
+1712,King Abdulaziz University,Saudiarabia
+1713,Eurasian National University,Kazakhstan
+1714,"University Sidi Mohamed Ben Abdellah, F??s And Universit?? Paul Sabatier - Toulouse Iii",Morocco
+1715,"Universit?? Moulay Ismail, Mekn??s",Morocco
+1716,Karaganda State University,Kazakhstan
+1717,"University Of California, Berkeley And University Of Maryland College Park",Unitedstates
+1718,Universit?? De La Rochelle And Lebanese University,France
+1719,San Diego State University And Claremont Graduate University,Unitedstates
+1720,Universit?? Claude Bernard - Lyon 1 And ??cole Centrale De Lyon,France
+1721,Universit?? Degli Studi Di Cagliari,Italy
+1722,Universit?? Denis Diderot - Paris Vii And Universit?? De Clermont,France
+1723,Universiti Putra Malaysia,Malaysia
+1724,Athens University Of Economics And Business,Greece
+1725,??cole Normale Sup??rieure De Cachan And Politecnico Di Torino,France
+1726,University Of Munich,Germany
+1727,Universitat Polit??cnica De Catalunya,Catalonia
+1728,University Of Tuebingen,Germany
+1729,University At Albany,Unitedstates
+1730,Conservatoire National Des Arts Et M??tiers,France
+1731,Universit?? Denis Diderot - Paris Vii And East China Normal University,France
+1732,Padjadjaran University,Indonesia
+1733,Universidad De Chile And ??cole Polytechnique - Ep Palaiseau - X,Chile
+1734,Universit?? Commerciale Luigi Bocconi,Italy
+1735,Universidad De Almer??a And Vrije Universiteit Brussel,Spain
+1736,Brno University Of Technology,Czechrepublic
+1737,University Of Sfax And Universit?? Paul Sabatier - Toulouse Iii,Tunisia
+1738,Universit?? Claude Bernard - Lyon 1 And ??cole Normale Sup??rieure De Lyon,France
+1739,Universiteit Franeker,Netherlands
+1740,Univerzitet U Tuzli,Bosnia
+1741,Universit?? Degli Studi Di Modena E Reggio Emilia,Italy
+1742,Universidade Da Madeira,Portugal
+1743,Friedrich-Alexander-Universit??t Erlangen-N??rnberg,null
+1744,Friedrich-Alexander-Universit??t Erlangen-N??rnberg,null
+1745,"University Of California, Irvine",null
+1746,Universidade Federal De S??o Carlos,null
+1747,Universidad De Chile And Universit?? De Nice-Sophia Antipolis,Chile
+1748,Nara Women'S University,Japan
+1749,"University Of Nevada, Reno",Unitedstates
+1750,"Universit?? Rennes I And Universit?? De Niamey, Niger",France
+1751,Universit?? D'Oran-Ess??nia,Algeria
+1752,Universiti Teknologi Malaysia,Malaysia
+1753,Ludwigsburg University Of Education,Germany
+1754,Universit?? Degli Studi Dell'Aquila,Italy
+1755,University Of Insubria,Italy
+1756,Institut Teknologi Bandung,Indonesia
+1757,Fairleigh Dickinson University,Unitedstates
+1758,Tokyo Bunrika Daigaku,Japan
+1759,Universidad De Cantabria And Universit?? Denis Diderot - Paris Vii,Spain
+1760,"Far Eastern Federal University, Vladivostok",Russia
+1761,Coventry University,Unitedkingdom
+1762,Stavropol State University,Russia
+1763,Universit?? Paris-Sud Xi - Orsay And ??cole Normale Sup??rieure Paris,France
+1764,Benem??rita Universidad Aut??noma De Puebla,Mexico
+1765,Punjabi University,India
+1766,China Academy Of Engineering Physics,China
+1767,Technical University Of Nova Scotia,Canada
+1768,Krasnoyarsk State Agrarian University,Ukraine
+1769,Universitat Polit??cnica De Catalunya And Universit?? Di Bologna,Spain
+1770,Universit?? Paris Xiii And Libera Universit?? Internazionale Degli Studi Sociali Guido Carli,France
+1771,T??l??com Paristech,France
+1772,University Of Lanzhou,Japan
+1773,University Of Dundee And Universit?? Joseph Fourier Grenoble I,Unitedkingdom
+1774,Krasnoyarsk Computing Centre,Russia
+1775,Technion-Israel Institute Of Technology And University Of British Columbia,Israel
+1776,Mazandaran University Of Science And Technology,Iran
+1777,Kabardino-Balkarian University,Russia
+1778,"Max-Planck Institute For Mathematics, Bonn",Germany
+1779,Universit?? Denis Diderot - Paris Vii And ??cole Normale Sup??rieure Paris,France
+1780,"University Of Sciences And Technology Houari-Boumedi??ne, Alger-Alg??rie.",Algeria
+1781,Bharathidasan University,India
+1782,Pontif??cia Universidade Do Rio Grande Do Sul,Brazil
+1783,Urmia University,Iran
+1784,Universit?? Paris Vi - Pierre Et Marie Curie And ??cole Normale Sup??rieure Paris,France
+1785,Universidade De Aveiro And Universit?? D'Orl??ans,Portugal
+1786,Universit?? Joseph Fourier Grenoble I And Universit?? Paul Sabatier - Toulouse Iii,France
+1787,Fritz Haber Institute Of The Max Planck Society,Germany
+1788,University Of Fort Hare,Southafrica
+1789,National University Of Malaysia,Malaysia
+1790,Rochester Institute Of Technology,Unitedstates
+1791,Tallinn University Of Technology,Estonia
+1792,University Of Iowa And Nankai University,Unitedstates
+1793,??stanbul Teknik ??niversitesi,Turkey
+1794,Institut De Math??matiques De Toulouse,France
+1795,"Heinrich-Heine-Universit??t D??sseldorf And Royal Holloway, University Of London",Germany
+1796,Kungliga Tekniska H??gskolan And University Of Cambridge,Sweden
+1797,E??tv??s Lor??nd University And ??cole Polytechnique F??d??rale De Lausanne,Hungary
+1798,Kansas State University And Universit?? Rennes I,Unitedstates
+1799,Texas State University,Unitedstates
+1800,Moscow State University And Novosibirsk State University,Russia
+1801,Christian-Albrechts-Universit??t Zu Kiel And Institut National Polytechnique De Grenoble,Germany
+1802,University Of Constantine,Algeria
+1803,Facult?? De M??decine De Paris,France
+1804,Bergische Universit??t Wuppertal And Temple University,Germany
+1805,Georg-August-Universit??t G??ttingen And Universit?? Joseph Fourier Grenoble I,Germany
+1806,Polish Academy Of Sciences And Uniwersytet W Bia??ymstoku,Poland
+1807,"University Of Massachusetts, Dartmouth",Unitedstates
+1808,Universit?? Degli Studi Di Teramo,Italy
+1809,"Matej Bel University, Banska Bystrica",Slovakia
+1810,Kocaeli University And Izmir University,Turkey
+1811,Universidad De Oriente And University Of Holgu??n,Cuba
+1812,Universit?? Di Torino And ??cole Normale Sup??rieure De Lyon,Italy
+1813,Universit?? Di Mantova,Italy
+1814,Universidad Aut??noma Metropolitana And Universit?? Paul Sabatier - Toulouse Iii,Mexico
+1815,Cochin University Of Science And Technology,India
+1816,Texas A&M University And Uniwersytet Warszawski,Unitedstates
+1817,Universidad Nacional Aut??noma De M??xico And Universidad Michoacana De San Nicolas De Hidalgo,Mexico
+1818,"University Of West Bohemia, Pilsen",Czechrepublic
+1819,Charles University And Academy Of Sciences Of The Czech Republic,Czechrepublic
+1820,Universit?? Du Littoral C??te D'Opale,France
+1821,South China University Of Technology,China
+1822,University Of Sydney And Universit?? Paris-Sud Xi - Orsay,Australia
+1823,Aalto University,Finland
+1824,Universit?? Di Milano And Universit?? Di Torino,Italy
+1825,Universit??t Hildesheim And Universit?? De Paris,Germany
+1826,Carl-Von-Ossietzky-Universit??t Oldenburg And Universit?? De Paris,Germany
+1827,University Of Gloucestershire,Unitedkingdom
+1828,De Montfort University,Unitedkingdom
+1829,University Of Plymouth,Unitedkingdom
+1830,Teesside University,Unitedkingdom
+1831,Universit?? Bordeaux 1 And Universit?? De Lausanne,France
+1832,Universiteit Maastricht And Universit?? De Lausanne,Netherlands
+1833,Universidad De Chile And Universit?? Paris Vi - Pierre Et Marie Curie,Chile
+1834,Institute Of Technology Carlow,Ireland
+1835,Universit?? Paris Vi - Pierre Et Marie Curie And Universit?? Del Salento,France
+1836,Edinburgh Napier University,Unitedkingdom
+1837,Karlsruher Institut F??r Technologie (Kit),Germany
+1838,Universit?? Panth??on-Assas Paris Ii,France
+1839,Afyon Kocatepe University,Turkey
+1840,Rijksuniversiteit Groningen And Universiteit Utrecht,Netherlands
+1841,"Universit??t Leipzig And Max-Planck Institute For Mathematics In The Sciences, Leipzig",Germany
+1842,Gujarat University,India
+1843,"Universit?? Bordeaux 1 And Institute For Advanced Studies In Basic Sciences, Zanjan, Iran",France
+1844,Universidad De Almer??a And Universidad De Granada,Spain
+1845,Universit?? Lumi??re Lyon 2,France
+1846,H??pital De La Charit?? De Paris,France
+1847,North Maharashtra University,India
+1848,Universit?? Paris-Sud Xi - Orsay And ??cole Normale Sup??rieure,France
+1849,Uniwersytet Kardyna??a Stefana Wyszy??skiego W Warszawie,Poland
+1850,Katholieke Universiteit Leuven And Universit?? Paris Vi - Pierre Et Marie Curie,Belgium
+1851,Timisoara University And Universitatea Tehnic?? Din Cluj-Napoca,Romania
+1852,Lebedev Institute Of Physics,Russia
+1853,Les H??pitals De La Charit?? Et Salp??tri??re De Paris,France
+1854,Cinvestav Del Ipn And Universidad Nacional Aut??noma De M??xico,Mexico
+1855,Shanghai Jiao Tong University,China
+1856,Peking University And University Of Waterloo,China
+1857,Northwest University,China
+1858,Osaka Prefecture University,Japan
+1859,??cole Centrale De Lyon,France
+1860,Wesleyan University And Universit?? Degli Studi Di Napoli Federico Ii,Unitedstates
+1861,University Of Western Sydney,Australia
+1862,Ecole Centrale De Nantes,France
+1863,Macs Supgalil??e,France
+1864,Ankara University And Istanbul University And Maltepe University And Erciyes University,Turkey
+1865,Universidad Ceu Cardinal Herrera,Spain
+1866,Vietnam National University - Ho Chi Minh City,Vietnam
+1867,Nagarjuna University,India
+1868,University Of Portsmouth,Unitedkingdom
+1869,Uludag University,Turkey
+1870,Moscow Engineering Physics Institute,Russia
+1871,"Institute Of Nuclear Research, Warsaw",Poland
+1872,All-Russian Research Institute For Metrological Service,Russia
+1873,University Of Primorska,Slovenia
+1874,University Of Leicester And Universit?? De Caen,Unitedkingdom
+1875,Universit?? Degli Studi Di Milano And Universit?? Paris Vi - Pierre Et Marie Curie,Italy
+1876,Katholieke Universiteit Leuven And Universit?? De Neuch??tel,Belgium
+1877,Universit?? Degli Studi Della Basilicata,Italy
+1878,Universidad De Valladolid And Universidad Aut??noma De Nuevo Le??n,Spain
+1879,Universit?? C?? Foscari Venezia,Italy
+1880,Central Connecticut State University,Unitedstates
+1881,Hellenic Open University,Greece
+1882,Belarusian State University,Belarus
+1883,Selcuk University,Turkey
+1884,University Of Kinshasa,Democratic Republic Of The Congo
+1885,University Of Kashan,Iran
+1886,Institut De Math??matiques De Jussieu And Universidad De Buenos Aires,France
+1887,Universit?? Degli Studi Di Genova,Italy
+1888,Universit?? De Bourges,null
+1889,Sharif University Of Technology And Universit?? De Provence - Aix-Marseille I,Iran
+1890,Ulyanovsk State University,Russia
+1891,Universidad Central Marta Abreu De Las Villas,Cuba
+1892,Chaudhary Charan Singh University,India
+1893,Sharif University Of Technology And L'Universit?? D'Evry,Iran
+1894,Haryana Agriculture University,India
+1895,Universit?? Di Torino And Universit?? Denis Diderot - Paris Vii,Italy
+1896,Instituto De Matem??tica Pura E Aplicada And University Of Calgary,Brazil
+1897,"University Of California, Merced",Unitedstates
+1898,Vinayaka Missions University,India
+1899,Jadavpur University And North Eastern Hill University,India
+1900,"Indian Agricultural Statistics Research Institute, New Delh",India
+1901,Jeju National University,Southkorea
+1902,West University Of Timisoara,Romania
+1903,Universit?? Denis Diderot - Paris Vii And Universit?? C?? Foscari Venezia,France
+1904,It University Of Copenhagen,Denmark
+1905,Chiang Mai University,Thailand
+1906,North Carolina State University And The University Of North Carolina At Chapel Hill,Unitedstates
+1907,"Institute Of Mathematics, Bashkir Branch Of Academy Of Science Of Ussr",Russia
+1908,Moscow State University And Universit?? Joseph Fourier Grenoble I And Independent University Of Moscow,Russia
+1909,Moscow State Institute Of Electronics And Mathematics,Russia
+1910,Kocaeli University,Turkey
+1911,Mahidol University,Thailand
+1912,Visvesvaraya Technological University,India
+1913,Manonmaniam Sundaranar University,India
+1914,Pontif??cia Universidade Cat??lica De S??o Paulo,Brazil
+1915,University Of Podgorica,Yugoslavia
+1916,Univerzitet U Novom Sudu,Serbia
+1917,"Institute Of Cybernetics, Azerbaijan Academy Of Sciences",Azerbaijan
+1918,Universit?? Di Pisa And Universit?? Paris Ix - Dauphine,Italy
+1919,University Of Dayton,Unitedstates
+1920,Universidad Nacional Aut??noma De M??xico And Universit?? De La M??diterran??e - Aix-Marseille Ii,Mexico
+1921,Silesian University Of Technology And Akademia Im. Jana D??ugosza,Poland
+1922,Universit?? Degli Studi Di Bergamo,Italy
+1923,"Institute Of Physics, Estonian Academy Of Sciences",Estonia
+1924,"Peoples' Friendship University, Moscow And Universit??t Trier",Russia
+1925,Pontificia Universidad Cat??lica De Chile And Universit?? De Provence - Aix-Marseille I,Chile
+1926,University Of Mostar,Croatia
+1927,University Of Eastern Finland,Finland
+1928,University Of Dammam,Saudiarabia
+1929,Niigata University,Japan
+1930,Amity University,India
+1931,"University Of Agriculture, Abeokuta",Nigeria
+1932,Fudan University And Universit?? D'Angers,China
+1933,Hunter College,Unitedstates
+1934,Memorial University Of Newfoundland And Middle East Technical University,Canada
+1935,Gwangju Institute Of Science And Technology (Gist),Southkorea
+1936,North University Of Baia Mare,Romania
+1937,Universit?? Du Qu??bec ?€ Montr??al And ??cole Polytechnique - Ep Palaiseau - X,Canada
+1938,National University Of Defense Technology,China
+1939,Fatih University,Turkey
+1940,Technical University Of Liberec,Czechrepublic
+1941,Universidad Nacional De Salta,Argentina
+1942,Bashkir State University,Russia
+1943,Sabanci University,Turkey
+1944,"Faculty Of Science, Kenitra",Morocco
+1945,Universit?? Du Luxembourg,Luxembourg
+1946,Universit?? Paris-Sud Xi - Orsay And Westf??lische Wilhelms-Universit??t M??nster,France
+1947,Universit?? Degli Studi Di Siena And Universit?? Di Firenze,Italy
+1948,"Universit?? Di Torino And Queen Mary, University Of London",Italy
+1949,University Of Malaya,Malaysia
+1950,Reykjavik University,Iceland
+1951,Katholieke Universiteit Leuven And Universit??t Wuppertal,Belgium
+1952,Institut National Polytechnique De Lorraine And Technische Universiteit Eindhoven,France
+1953,"University Of Architecture, Civil Engineering And Geodesy, Sofia",Bulgaria
+1954,Friedrich-Schiller-Universit??t Jena And Technische Universit??t Dresden,Germany
+1955,University Of The Free State,Southafrica
+1956,"Kwame Nkrumah University Of Science And Technology, Kumasi",Ghana
+1957,Universit?? De Gen??ve And ??cole Normale Sup??rieure De Lyon,Switzerland
+1958,"North-West University, Potchefstroom",Southafrica
+1959,Universidad Pontificia Bolivariana,Colombia
+1960,Czech Technical University And Universit?? Paris Vii,Czechrepublic
+1961,Tangji University,China
+1962,Ruprecht-Karls-Universit??t Heidelberg And Universit?? Catholique De Louvain,Germany
+1963,Instituto Mexicano Del Petr??leo,Mexico
+1964,University Magna Graecia Of Catanzaro,Italy
+1965,Graduate University Of Chinese Academy Of Sciences,China
+1966,Universit?? Di Padova And Universit?? Paris Vi - Pierre Et Marie Curie,Italy
+1967,Universit?? Bordeaux 1 And Universit?? De Montr??al,France
+1968,Pontif??cia Universidade Cat??lica Do Rio De Janeiro And Universit?? De Marne La Vall??e,Brazil
+1969,Tilburg University,Netherlands
+1970,Universit?? Paris-Sud Xi - Orsay And ??cole Normale Sup??rieure De Saint Cloud,France
+1971,Beijing University Of Technology,China
+1972,Tver State University,Russia
+1973,Universit?? Blaise Pascal And Universit?? De Bamako,France
+1974,Universit?? Denis Diderot - Paris Vii And ??cole Normale Sup??rieure,France
+1975,Faculty Of Sciences Of Bizerte,Tunisia
+1976,"??cole Nationale Sup??rieure D'??lectronique, D'??lectrotechnique, D'Informatique, D'Hydraulique Et Des T??l??communications",France
+1977,Euskal Herriko Unibertsitatea,null
+1978,University Of Monastir,Tunisia
+1979,Chungnam National University,Korea
+1980,Tampere University Of Technology,Finland
+1981,National Institute Of Development Administration,Thailand
+1982,Tuskegee University,Unitedstates
+1983,"Institute Of Mathematics, Bulgarian Academy Of Sciences And Technical University Of Varna",Bulgaria
+1984,Universidad De Buenos Aires And Universit?? Denis Diderot - Paris Vii,Argentina
+1985,Calcutta University And La Trobe University,India
+1986,Thammasat University,Thailand
+1987,Universit?? De Bretagne Occidentale And ??cole Normale Sup??rieure De Hanoi,France
+1988,Grodno State University,Belarus
+1989,University Of The Punjab,Pakistan
+1990,Kiev State University And Odessa State University,Ukraine
+1991,Scuola Internazionale Superiore Di Studi Avanzati And Universit?? De Lille I,Italy
+1992,Universit?? Di Roma La Sapienza And Universit?? Denis Diderot - Paris Vii,Italy
+1993,University Of Adelaide And Universit?? Paul Sabatier - Toulouse Iii,Australia
+1994,"University Of California, San Diego And San Diego State University",Unitedstates
+1995,Universidade Federal Do Paran??,Brazil
+1996,Universit?? Catholique De Louvain And Universit?? Libre De Bruxelles,Belgium
+1997,Universidad De Sevilla And Moscow State Lomonosov University,Spain
+1998,"University Of Wales, Cardiff",Unitedkingdom
+1999,Constantine The Philosopher Unversity In Nitra,Slovakia
+2000,Vidyasagar University,India
+2001,Universit?? De Perpignan And Universidad Nacional De Ingenieria,France
+2002,Chinese Academy Of Sciences And ??cole Polytechnique,China
+2003,Sultan Moulay Slimane University,Morocco
+2004,Comenius University And Slovak Academy Of Science And Slovak Institute Of Technology,Slovakia
+2005,Universit?? De Rouen And Universit?? Di Milano Bicocca,France
+2006,International Islamic University Malaysia,Malaysia
+2007,"Uniwersytet Warminsko-Mazurski, Olsztyn",Poland
+2008,Universit?? Di Chieti-Pescara,Italy
+2009,Czech Technical University And Universit?? Denis Diderot - Paris Vii,Czechrepublic
+2010,Bangalore University,India
+2011,Royal Institution Of Great Britain,Unitedkingdom
+2012,Computing Center Of Siberian Branch Of The Russian Academy Of Science,Russia
+2013,"National Institute Of Technology Karnataka, Surathkal",India
+2014,Universidade De Tr??s-Os-Montes E Alto Douro,Portugal
+2015,Libera Universit?? Internazionale Degli Studi Sociali Guido Carli,Italy
+2016,P??dagogische Hochschule Karlsruhe,Germany
+2017,Beihang University,China
+2018,"Harcourt Butler Technological Institute, Kanpur",India
+2019,Universit?? Du Qu??bec,Canada
+2020,Kyoto Sangyo University,Japan
+2021,Carnegie Mellon University And Universidade Nova De Lisboa,Unitedstates
+2022,Moscow State University And ??cole Normale Sup??rieure De Lyon,Russia
+2023,Massachusetts Institute Of Technology And Universit?? Degli Studi Di Siena,Unitedstates
+2024,Huazhong University Of Science And Technology,China
+2025,Universit?? Paris Vi - Pierre Et Marie Curie And Universidad Pontificia Bolivariana,France
+2026,Dhirubhai Ambani Institute Of Information And Communication Technology,India
+2027,Lipetsk State Technical University,Russia
+2028,Banaras Hindu University And University Of Delhi,India
+2029,Scuola Normale Superiore Di Pisa And Westf??lische Wilhelms-Universit??t M??nster,Italy
+2030,Universidad Nacional De Mar Del Pata,Argentina
+2031,Universit?? Jean Monnet - Saint-Etienne And Institute Of Mathematics Of The Romanian Academy,France
+2032,University Of East Sarajevo,Bosniaherzegovina
+2033,Amirkabir University Of Technology (Tehran Polytechnic University) And University Of Florida,Iran
+2034,Universidade Federal Do Rio Grande Do Sul And University Of Alberta,Brazil
+2035,Komsomolsk-On-Amur State Technical University,Russia
+2036,Polish Academy Of Sciences And Uniwersytet Wroc??awski,Poland
+2037,??cole Nationale D'Ing??nieurs De Tunis,Tunisia
+2038,Pepperdine University,Unitedstates
+2039,Grambling State University,Unitedstates
+2040,University Of Rijeka,Croatia
+2041,"Indian Institute Of Technology, Roorkee",India
+2042,Ball State University,Unitedstates
+2043,University Of Sargodha,Pakistan
+2044,Institut De Math??matiques Et De Sciences Physiques And Universit?? D'Abomey,Benin
+2045,Universitas Negeri Surabaya,Indonesia
+2046,Ionian University,Greece
+2047,Universidad Nacional De Cuyo,Argentina
+2048,University Of Dublin,Ireland
+2049,Laborat??rio Nacional De Computa????o Cient??fica,Brazil
+2050,University Of Debrecen And Eszterh??zy K??roly University,Hungary
+2051,Universit?? De La Rochelle,France
+2052,Institut Eurecom,France
+2053,Ewha Womans University,Southkorea
+2054,Argosy University,Unitedstates
+2055,East China Normal University And Nanjing University Of Science And Technology,China
+2056,"Institute Of Applied Mathematics And Mechanics, Donetsk",Ukraine
+2057,University Of Zagreb And Universit?? Louis Pasteur - Strasbourg I,Croatia
+2058,Bayero University,Nigeria
+2059,P??dagogische Hochschule G??strow,Germany
+2060,Universidad Nacional De General Sarmiento,Argentina
+2061,Johannes Gutenberg-Universit??t Mainz And Universit?? De Nantes,Germany
+2062,University Of Bejaia And Universit?? De Caen,Algeria
+2063,D.D.U. Gorakhpur University,India
+2064,Oregon Health & Science University,Unitedstates
+2065,Universit?? De Tours,France
+2066,Vienna University Of Economics And Business,Austria
+2067,University Of Pittsburgh And ??cole Polytechnique,Unitedstates
+2068,"Institute Of Mathematics, Vietnam Academy Of Science And Technology",Vietnam
+2069,"Royal College Of Art, London",Unitedkingdom
+2070,Universidade De Aveiro And Universidade Do Minho,Portugal
+2071,Ege ??niversitesi,Turkey
+2072,Karlstad University,Sweden
+2073,Armenian Academy Of Sciences,Armenia
+2074,Armenian State Enginering University,Armenia
+2075,Institut National Polytechnique De Lorraine And L'Institut National De Recherche En Informatique Et En Automatique (Inria),France
+2076,Soochow University,Taiwan
+2077,University Of Florida And Universit?? Di Catania,Unitedstates
+2078,Kennesaw State University,Unitedstates
+2079,"Institute Of Nuclear Physics, Almaty, Kazakhstan",Kazakhstan
+2080,Chiba University,Japan
+2081,Woods Hole Oceanographic Institution,null
+2082,Dicle University,Turkey
+2083,Babe??-Bolyai University And Universidad De Sevilla,Romania
+2084,Universidad De Barcelona And Universit?? De Caen,Spain
+2085,Technische Universit??t M??nchen And Universit??t Karlsruhe,Germany
+2086,National Taiwan University And Universit?? Joseph Fourier Grenoble I,Taiwan
+2087,Lule?? University Of Technology And Eurasian National University,Sweden
+2088,Silesian University In Opava,Czechrepublic
+2089,Universit?? Catholique De Louvain And Universit?? De Reims Champagne-Ardenne,Belgium
+2090,"University Of Port Harcourt, Nigeria",Nigeria
+2091,Universit?? Di Firenze And Universit?? Paris Vi - Pierre Et Marie Curie,Italy
+2092,Technische Universit??t Graz And Universit?? Aix-Marseille,Austria
+2093,Ivan Franko National University Of Lviv And Lviv Institute Of Applied Problems Of Mechanics And Mathematics,Ukraine
+2094,Imperial College And University Of Cambridge,Unitedkingdom
+2095,Lule?? University Of Technology And Romanian Academy Of Sciences,Sweden
+2096,Lule?? University Of Technology And University Of Zagreb,Sweden
+2097,Lule?? University Of Technology And Narvik University College,Sweden
+2098,Lule?? University Of Technology And Malm?? University,Sweden
+2099,Ateneo De Manila University,Philippines
+2100,Universidade Federal De Lavras,Brazil
+2101,Birla Institute Of Technology Mesra,India
+2102,Universit?? Paris-Sud Xi - Orsay And Akademia G??rniczo-Hutnicza,France
+2103,Annamalai University,India
+2104,Universit?? Paris Vi - Pierre Et Marie Curie And Uniwersytet Warszawski,France
+2105,??cole Des Hautes ??tudes Commerciales De Paris,France
+2106,Universit?? Paul Verlaine - Metz And Universit?? 7 Novembre De Carthage,France
+2107,St. Petersburg Technical University And A.A. Blagonravov Mechanical Engineering Institute Ras,Russia
+2108,Chinese University Of Hong Kong,China
+2109,"Chennai Mathematical Institute And Birla Institute Of Technology, Pilani",India
+2110,Max-Planck-Institut F??r Informatik,Germany
+2111,Brazilian Center For Research In Physics,Brazil
+2112,Politecnico Di Milano And Universit?? De Nice-Sophia Antipolis,Italy
+2113,University Abdelhamid Ibn Badis Of Mostaganem,Algeria
+2114,Hochschule F??r Wirtschafts- Und Sozialwissenschaften N??rnberg,Germany
+2115,Universidade De Santa Catarina,Brazil
+2116,"Ecole Mohammadia D'Ing??nieurs, Rabat",Morocco
+2117,Nova Southeastern University,Unitedstates
+2118,Firat University,Turkey
+2119,Universit??t Des Saarlandes And Max-Planck-Institut F??r Informatik,Germany
+2120,I????k University,Turkey
+2121,University Of Bridgeport,Unitedstates
+2122,Universit?? Paris-Sud Xi Et Sup??lec,France
+2123,Universit?? Libre De Bruxelles And Universit?? De Neuch??tel,Belgium
+2124,University Of Illinois At Urbana-Champaign And Nankai University,Unitedstates
+2125,C.E.R.F.A.C.S.,France
+2126,Imam Khomeini International University,Iran
+2127,Guru Nanak Dev University,India
+2128,Moscow State University And Jacobs University Bremen And Independent University Of Moscow,Russia
+2129,"Tata Institute Of Fundamental Research And The Institute Of Mathematical Sciences, Chennai And Homi Bhabha National Institute",India
+2130,Xiamen University,China
+2131,Fudan University And University Of Oxford,China
+2132,Institute For Public Administration Of Veracruz,Mexico
+2133,Ain Shams University And Al-Aqsa Univerity,Egypt
+2134,Woods Hole Oceanographic Institution,null
+2135,Zhejiang University And Hangzhou University,China
+2136,??cole Nationale Sup??rieure De L'A??ronautique Et De L'Espace And ??cole Polytechnique De Montr??al,France
+2137,University Of Natural Sciences Of Ho Chi Minh City,Vietnam
+2138,Gomel State University,Belarus
+2139,Carnegie Mellon University And Universidade T??cnica De Lisboa,Unitedstates
+2140,"Ecole Nationale Sup??rieure De Statistique Et D'Economie Appliqu??e, Alger, Algeria",Algeria
+2141,University Of Applied Arts,Austria
+2142,"Universidad De Los Andes, Colombia",Colombia
+2143,Universit?? D'Artois,France
+2144,Imperial College And Mcgill University,Unitedkingdom
+2145,University Of Nottingham Malaysia Campus,Malaysia
+2146,Universit?? De Provence,France
+2147,"Institute Of Mathematics, National Academy Of Sciences Of Armenia And Yerevan State University",Armenia
+2148,Amirkabir University Of Technology (Tehran Polytechnic University) And Sharif University Of Technology,Iran
+2149,A. Razmadze Mathematical Institute Of The Georgian Academy Of Sciences And Ivane Javakhishvili Tbilisi State University,Georgia
+2150,Technische Universiteit Eindhoven And Universiteit Van Amsterdam,Netherlands
+2151,Georg-August-Universit??t G??ttingen And ??stanbul Teknik ??niversitesi,Germany
+2152,Institut National Polytechnique De Grenoble And University Of Melbourne,France
+2153,National University Of Ireland And University College Dublin,Ireland
+2154,Universit?? De Lorraine,France
+2155,Swansea University,Unitedkingdom
+2156,Universit??t Potsdam And Max-Planck-Institut F??r Gravitationsphysik (Albert-Einstein-Institut),Germany
+2157,"Universidad De La Republica, Montevideo, Uruguay And Universit?? Paris Xiii",Uruguay
+2158,University Of Southern Queensland,Australia
+2159,University Of Hong Kong,China
+2160,Om El-Kora University,Saudiarabia
+2161,Kuban State University,Russia
+2162,"Kuban State University And Institute Of Applied Mathematics And Mechanics, Donetsk",Russia
+2163,"National Institute Of Technology, Durgapur",India
+2164,South East European University In Tetovo,Macedonia
+2165,"Institute Of Philosophy, Kiev",Ukraine
+2166,Technische Universit??t Carolo-Wilhelmina Zu Braunschweig And Aarhus University,Germany
+2167,University Of Missouri - St. Louis,Unitedstates
+2168,Kasetsart University,Thailand
+2169,Asian Institute Of Technology,Thailand
+2170,Kagoshima University,Japan
+2171,Universitat Polit??cnica De Catalunya And Universit?? Joseph Fourier Grenoble I,Spain
+2172,Magnitogorsk State University,Russia
+2173,Instituto Superior De Engenharia De Coimbra,Portugal
+2174,Universidad De La Frontera,Chile
+2175,Abdelmalek Essa??di University,Morocco
+2176,Tehran University Of Medical Sciences,Iran
+2177,Universidade Federal Da Bahia,Brazil
+2178,City University Of New York And University Of Southern California,Unitedstates
+2179,Keck Graduate Institute,Unitedstates
+2180,Universidad Aut??noma De Madrid And Basque Center For Applied Mathematics,Spain
+2181,Hong Kong Polytechnic,China
+2182,Charles University And Ruprecht-Karls-Universit??t Heidelberg,Czechrepublic
+2183,Tokyo University Of Science,Japan
+2184,Scuola Normale Superiore Di Pisa And Universit?? Paris-Sud Xi - Orsay,Italy
+2185,Universitat Oberta De Catalunya,Catalonia
+2186,Universidad Aut??noma Del Estado De Morelos,Mexico
+2187,Western University,Canada
+2188,Friedrich-Alexander-Universit??t Erlangen-N??rnberg And Universit?? Di Bologna,Germany
+2189,Universit?? Di Roma La Sapienza And Universit?? Paris Vi - Pierre Et Marie Curie,Italy
+2190,Toyota Technological Institute At Chicago,Unitedstates
+2191,University Of Rizal System,Philippines
+2192,Queen'S University At Kingston And Royal Military College Of Canada,Canada
+2193,Universit?? Di Bologna And Universit?? De Cergy-Pontoise,Italy
+2194,Rivers State University Of Science And Technology Port Harcourt,Nigeria
+2195,Le Quy Don Technical University,Vietnam
+2196,Stanford University And University Of Iceland,Unitedstates
+2197,Sogang University,Southkorea
+2198,Universit?? Paris Vi - Pierre Et Marie Curie And Beihang University,France
+2199,Ingenieurhochschule Fu??R Seefahrt Warnem??nde-Wustrow,Germany
+2200,Vali-E-Asr University Of Rafsanjan,Iran
+2201,Technische Universit??t Darmstadt And Max Planck Institute For Intelligent Systems,Germany
+2202,Universitatea Tehnic?? Din Cluj-Napoca,Romania
+2203,Australian National University And Universit?? Paris Xiii,Australia
+2204,Universit?? De Picardie Jules Verne And Lebanese University,France
+2205,Universit?? Di Lugano,Italy
+2206,Universit?? Di Torino And Universit??t Hannover,Italy
+2207,Scuola Normale Superiore Di Pisa And Universit?? Di Padova,Italy
+2208,Yunnan University,China
+2209,??cole Sup??rieure D'??lectricit?? (Sup??lec),France
+2210,The Institute Of Philosophy Of The Academy Of Sciences,Russia
+2211,London Metropolitan University,Unitedkingdom
+2212,Universidad Aut??noma De Nuevo Le??n,Spain
+2213,Hong Kong University Of Science And Technology,China
+2214,New School For Social Research,Unitedstates
+2215,"Institute For Nuclear Physics, Novosibirsk",Russia
+2216,Gulbarga University,India
+2217,Academy Of Sciences Of Moldova,Moldova
+2218,Albert-Ludwigs-Universit??t Freiburg Im Breisgau And Max Planck Institute For Intelligent Systems,Germany
+2219,Comenius University And Universiteit Utrecht,Slovakia
+2220,Open Universiteit,Netherlands
+2221,Albert-Ludwigs-Universit??t Freiburg Im Breisgau,null
+2222,Kalinin State University,Russia
+2223,Northeastern University And Universit?? Di Padova,Unitedstates
+2224,University Of Debrecen And Universit?? Du Luxembourg,Hungary
+2225,China University Of Mining And Technology,China
+2226,University Of Tizi-Ouzou,Algeria
+2227,University Of Turin And Universit?? Paris Vi - Pierre Et Marie Curie,Italy
+2228,Nanhua University,Taiwan
+2229,Universidad Aut??noma De Madrid And Wuhan University,Spain
+2230,City University Of Hong Kong,China
+2231,Universit?? De La M??diterran??e - Aix-Marseille Ii And Universit?? Degli Studi Di Genova,France
+2232,Institute For Low Temperature Physics And Engineering And Kharkiv State University,Ukraine
+2233,Scuola Internazionale Superiore Di Studi Avanzati And Universit?? Paris Est,Italy
+2234,City University Of Hong Kong And University Of Science And Technology Of China,China
+2235,Katholieke Universiteit Leuven And Pontificia Universidad Cat??lica De Chile,Belgium
+2236,Institut National Polytechnique De Toulouse And Universit?? Paul Sabatier - Toulouse Iii,France
+2237,Moscow Intstitute Of Steel And Alloys,Russia
+2238,"K??nigliche Theologische Und Philosophische Akademie, M??nster",Germany
+2239,Universit??t Dillingen,Germany
+2240,Universit?? Aix-Marseille And Universit?? Gaston Berger,France
+2241,Universit?? De Marne La Vall??e And T??l??com Paristech,France
+2242,Comenius University And Universiteit Van Amsterdam,Slovakia
+2243,Kansas State University And ??cole Polytechnique,Unitedstates
+2244,Universit?? De Rouen And Universit?? Mouloud Mammeri De Tizi Ouzou,France
+2245,Kazakh-British Technical University,Kazakhstan
+2246,Universit?? Paris Est And Lebanese University,France
+2247,University Of Missouri - Rolla,Unitedstates
+2248,University Of Zanjan,Iran
+2249,Universit?? Bordeaux 1 And L'Institut National De Recherche En Informatique Et En Automatique (Inria),France
+2250,Purdue University And University Of Florida,Unitedstates
+2251,University Of Warwick And Nederlands Kanker Instituut,Unitedkingdom
+2252,Kuban State University And Rostov State University,Russia
+2253,Universidad De Sevilla And Universit?? Rennes I,Spain
+2254,Friedrich-Alexander-Universit??t Erlangen-N??rnberg And Universit?? Degli Studi Di Roma Tre,Germany
+2255,Facult?? Des Sciences De Nancy,France
+2256,Universit?? Des Sciences Et Technologie De Lille-Lille I And ??cole Centrale De Lille,France
+2257,Universidad Nacional Aut??noma De M??xico And Benem??rita Universidad Aut??noma De Puebla,Mexico
+2258,Moscow Physical Technical Institute,Russia
+2259,Uniwersytet Im. Adama Mickiewicza And Vilnius University,Poland
+2260,Universidad Complutense De Madrid And Universit?? Degli Studi Di Milano,Spain
+2261,Jawaharlal Nehru Technological University,India
+2262,P??dagogische Hochschule Freiburg,Germany
+2263,Universite De Carthage,Tunisia
+2264,Azerbaijan State University,Azerbaijan
+2265,Harbin Institute Of Technology And University Of Alberta,China
+2266,Rice University And Universit?? Di Roma La Sapienza,Unitedstates
+2267,Psg College Of Arts And Science,India
+2268,Carl-Von-Ossietzky-Universit??t Oldenburg And University Of Alberta And Alzahra University,Germany
+2269,Universit?? De Nice-Sophia Antipolis And Faculty Of Sciences Of Tunis,France
+2270,Kannur University,India
+2271,"Universidad De Los Andes, Venezuela",Venezuela
+2272,Universit?? Chouaib Doukkali,Morocco
+2273,Universit?? Di Torino And Universit?? Claude Bernard - Lyon 1,Italy
+2274,Hanyang University,Southkorea
+2275,Babe??-Bolyai University And Universit?? De Perpignan,Romania
+2276,Coll??ge Mazarin,France
+2277,Universidade De S??o Paulo And Universit?? De Lille I,Brazil
+2278,Universit?? Degli Studi Di Milano And University Of Insubria,Italy
+2279,University Of Setif,Algeria
+2280,Sahand University Of Technology,Iran
+2281,Orel State University,Russia
+2282,Institute Of Mathematics As Rebublic Of Tajikistan,Tajikistan
+2283,Pai Chai University,Southkorea
+2284,"Indian Institute Of Technology, Madras And Technische Universit??t Kaiserslautern",India
+2285,Mother Teresa Women'S University,India
+2286,Universit?? Paul Sabatier - Toulouse Iii And Universit?? Tunis-El Manar,France
+2287,Fayoum University,Egypt
+2288,Moscow State University And Armenian Academy Of Sciences,Russia
+2289,Altai State University,Russia
+2290,"Universit?? Joseph Fourier Grenoble I And Institute For Advanced Studies In Basic Sciences, Zanjan, Iran",France
+2291,Universidad De Antioquia,Colombia
+2292,Universit?? Catholique De Louvain And Universit?? Paris Xiii,Belgium
+2293,Multimedia University,Malaysia
+2294,"Universit?? Mohammed V -Agdal, Rabat And Universit?? D'Avignon",Morocco
+2295,Universidade Federal Da Para??ba,Brazil
+2296,Institute Of Mathematics And Mechanics Sverdlovsk (Yekaterinburg),Russia
+2297,"N. I. Muskhelishvilli Institute Of Computing Mathematics, The Georgian Academy Of Sciences",Georgia
+2298,Qufu Normal University,China
+2299,St. Xavier'S College,India
+2300,Universit??t Paderborn And Universit?? De Lorraine,Germany
+2301,Universidad De Ja??n,Spain
+2302,"Universidad De La Republica, Montevideo, Uruguay And Universit?? Paul Sabatier - Toulouse Iii",Uruguay
+2303,University Of Colorado At Colorado Springs,Unitedstates
+2304,??rebro University,Sweden
+2305,Johannes Kepler Universit??t Linz And Beihang University,Austria
+2306,"Imt Institute For Advanced Studies, Lucca",Italy
+2307,Mersin University,Turkey
+2308,Kinki University,Japan
+2309,Kazimierz Wielki University (Pozna??),Poland
+2310,African University Of Science And Technology,Nigeria
+2311,National Chung Hsing University,Japan
+2312,Universit?? Brest And ??cole Normale Sup??rieure De Hanoi,France
+2313,Universiteit Leiden And Universit?? Di Padova,Netherlands
+2314,Charles University And Universit?? Bordeaux 1,Czechrepublic
+2315,Comsats University Islamabad,Pakistan
+2316,Instituto Superior T??cnico And University Of Texas At Austin,Portugal
+2317,Pandit Ravishankar Shukla University,India
+2318,Kochi University,Japan
+2319,Technische Universit??t Wien And Universit?? Aix-Marseille,Austria
+2320,Ritsumeikan University,Japan
+2321,Lviv Institute Of Applied Problems Of Mechanics And Mathematics,Ukraine
+2322,Claremont Graduate University And San Diego State University,Unitedstates
+2323,North Carolina State University And Beihang University,Unitedstates
+2324,Katholieke Universiteit Leuven And Universit?? De Toulouse,Belgium
+2325,Institute Of Chemical Technology,India
+2326,Tongji University,China
+2327,Universidade De Lisboa And University Of Texas At Austin,Portugal
+2328,University Of Iceland,Iceland
+2329,Universit?? Hassan Ii-Mohammedia,Morocco
+2330,Jawaharlal Nehru Centre For Advanced Scientific Research,India
+2331,Instituto De Ciencias Matem??ticas,Spain
+2332,Universit?? Paris Vi - Pierre Et Marie Curie And Institut Fran??ais Du P??trole,France
+2333,Imperial College And University Of London,Unitedkingdom
+2334,Tezpur University,India
+2335,Universit?? Rennes I And Ensai,France
+2336,Max-Planck-Institut F??r Gravitationsphysik (Albert-Einstein-Institut),Germany
+2337,Universit?? Denis Diderot - Paris Vii And ??cole Polytechnique,France
+2338,Carnegie Mellon University And Instituto Superior T??cnico,Unitedstates
+2339,Copernicus Astronomical Center,Poland
+2340,Ahmadu Bello University,Nigeria
+2341,Karadeniz Technical University,Turkey
+2342,Old Dominion University And Argonne National Laboratory,Unitedstates
+2343,National Institute Of Technology Calicut,India
+2344,"Universit?? Mohammed V -Agdal, Rabat And Universit?? De Strasbourg",Morocco
+2345,Universidad Del Valle,Colombia
+2346,Institute Of Mathematics Of Sbras,Russia
+2347,Canterbury University College Of The University Of New Zealand,Newzealand
+2348,Universit?? De Bourgogne And Universidad De Chile,France
+2349,Australian National University And University Of Pune,Australia
+2350,Universidad De Chile,France
+2351,Universit?? De Marne La Vall??e,Chile
+2352,Voronezh State Pedagogical University,Russia
+2353,"Universit?? Paris Vi - Pierre Et Marie Curie, University Of Sydney",France
+2354,"University Of Pennsylvania, University Of Illinois At Chicago",Unitedstates
+2355,Columbia University And University Of Bucharest,Unitedstates
+2356,Budapest University Of Technology And Economics,null
+2357,Belgorod State University,Russia
+2358,Office National D'Etudes Et De Recherches A??rospatiales,France
+2359,Tsing-Hua University,China
+2360,"Research Institute For Particle And Nuclear Physics, Budapest",Hungary
+2361,University Of Canberra,Australia
+2362,Royal Engineering College From Vienna,Austria
+2363,Kazakh State University,Kazakhstan
+2364,University Of South Dakota,Unitedstates
+2365,Texas A&M University - Kingsville,Unitedstates
+2366,University Of Damascus,Syria
+2367,Universidad Literaria De Valencia,Spain
+2368,Universitat Aut??noma De Barcelona,null
+2369,Universiteit Harderwijk,null
+2370,Ludwig-Maximilians-Universit??t Landshut,Germany
+2371,Automatics And Telemechanics Institute,Russia
+2372,Odessa Institute Of Marine Engineering,Ukraine
+2373,H??gskolen I Molde,Norway
+2374,Universitetet I Trondheim,Norway
+2375,Universidade Federal De Uberl??ndia,Brazil
+2376,"Girls College Of Science, Dammam",Saudiarabia
+2377,"Universit?? Paris Vi - Pierre Et Marie Curie, Padova",Italy
+2378,Kiev Pedagogical University,Ukraine
+2379,University Of Bedfordshire,Unitedkingdom
+2380,Gauhati University,India
+2381,Yale University,France
+2382,Universit?? Paris-Sud Xi - Orsay,Unitedstates
+2383,"Universidad De Chile, Universit?? De Versailles Saint-Quentin-En-Yvelines",France
+2384,Heavy Industries Polytechnic University,Hungary
+2385,Universitat De Lleida,Spain
+2386,Uniwersytet Jana Kazimierza,Poland
+2387,Moscow State University And Ivan Franko National University Of Lviv,Russia
+2388,National Academy Of Sciences Of Ukraine And Ivan Franko National University Of Lviv,Ukraine
+2389,Odessa Construction Engineering Institute And Yerevan State University,Ukraine
+2390,Ramakrishna Mission Vivekananda University,India
+2391,Mjp Rohilkhand University,India
+2392,St. Petersburg Naval Academy,Russia
+2393,Universit?? De Provence - Aix-Marseille I And Universit?? De Savoie,France
+2394,Martin-Luther-Universit??t Halle-Wittenberg,null
+2395,Physical Institute At Vienna,Austria
+2396,"Institute Of Mathematical Modeling, Moscow",Russia
+2397,Moldova State University,Moldova
+2398,"Ibs Khandari, Agra",India
+2399,South Valley University,Egypt
+2400,Clark Atlanta University,Unitedstates
+2401,Universit?? Paris-Sud Xi - Orsay And Lebanese University,France
+2402,Universit?? Paris Xiii And Scuola Normale Pisa,Italy
+2403,"Institute Of Systems Science, Chinese Academy Of Science",China
+2404,Kanazawa University,Japan
+2405,Brown University,null
+2406,Bauman Moscow State Technical University,Russia
+2407,The University Of Burdwan,India
+2408,Chhatrapati Shahu Ji Maharaj University,India
+2409,Universidad Michoacana De San Nicolas De Hidalgo,Mexico
+2410,Institut National Des Sciences Appliquees De Toulouse And Academy Of Sciences Of The Czech Republic,France
+2411,University Of Sistan And Baluchestan,Ireland
+2412,University Of Mazandaran,Iran
+2413,Kanpur University,India
+2414,University Of Southern California And Universit?? Paris Xi,Unitedstates
+2415,Chernovitskii State University,Ukraine
+2416,Krzhyzhanovski Energy Lab,Russia
+2417,Universit?? De La M??diterran??e (Aix-Marseille Ii) & Universit?? De Tunis El-Manar,Tunisia
+2418,Onera (French Aerospace Lab),France
+2419,Universit?? Di Pisa,Netherlands
+2420,Universiteit Utrecht,Italy
+2421,K??nigliche Akademie Der Wissenschaften Zu Berlin,Germany
+2422,Universit?? Paris Vi And Universit?? Di Roma La Sapienza,Italy
+2423,Kaiserlich-K??nigliche Technische Milit??rakademie,Austria
+2424,Universit??t Wien,null
+2425,Universit?? Parisvii- Denis Diderot,France
+2426,Universidad Nacional De Ingenieria Et Universit?? Antilles-Guyane,Peru
+2427,Universit?? Paul Sabatier - Toulouse Iii And Universit?? De Neuch??tel,France
+2428,Vladimir State University,Russia
+2429,"Georg-August-Universit??t G??ttingen, Universit??t Duesseldorf",Germany
+2430,Lahore University Of Management Sciences,Pakistan
+2431,Shizuoka University,Japan
+2432,"Military Academy Of Technology, Vietnam",Vietnam
+2433,University Of Can Tho,Vietnam
+2434,University Of Hull,Canada
+2435,University Of Benin,Nigeria
+2436,Universiteit Leiden,Italy
+2437,Universit?? Di Padova,null
+2438,Universiteit Leiden,null
+2439,University Of Lagos,Nigeria
+2440,Universiteit Leiden,null
+2441,Wright State University,Unitedstates
+2442,Akdeniz ??niversitesi,Turkey
+2443,University Of Oxford,null
+2444,Universiteit Leiden,null
+2445,Moscow State University And The University Of Pennsylvania,Russia
+2446,Universitas Indonesia Di Jakarta,Indonesia
+2447,University Of Oxford,null
+2448,Universit?? Degli Studi Di Roma Tre And Universit?? De La M??diterran??e - Aix-Marseille Ii,Italy
+2449,Dagestan State University,Russia
+2450,Bahauddin Zakariya University,Pakistan
+2451,Princeton University And ??cole Normale Sup??rieure Paris,France
+2452,Barkatullah University,India
+2453,"Centro De Matematica, Uruguay",Uruguay
+2454,Cornell University,France
+2455,Universit?? Louis Pasteur-Strasbourg I,Unitedstates
+2456,Maseno University,Kenya
+2457,Universit?? Paris Vi-Pierre Et Marie Curie And Universidad De Chile,France
+2458,Universit?? Louis Pasteur-Strasbourg I,France
+2459,Universit?? Mouloud Mammeri De Tizi Ouzou,Algeria
+2460,??cole Normale Superieure De Cachan,null
+2461,Institute Of Theoretical And Experimental Physics,Russia
+2462,University Of Regina And Vilnius University,Canada
+2463,Universit?? De Cergy-Pontoise And Universit?? De Neuch??tel,France
+2464,"Institute Of Mathematics, Kiev And Middle East Technical University",Ukraine
+2465,Max Planck Institut F??r Mathematik,null
+2466,"Ifin-Hh  	 Horia Hulubei National Institute Of Physics And Nuclear Engineering",Romania
+2467,Universiteit Harderwijk,Netherlands
+2468,Moscow State Pedagogical University And Vyatka State University Of Humanitites,Russia
+2469,"Mahatma Gandhi University,Kottayam",India
+2470,Budapest University Of Technology And Economics,null
+2471,Coll??ge De Tr??guier,null
+2472,Bejing Institute Of Theoretical Physics,China
+2473,University Of Cambridge,Belgium
+2474,Universit?? Catholique De Louvain,Unitedkingdom
+2475,Universit?? De Provence - Universit?? Di Firenze,Italy
+2476,Universit?? Di Padova And Centrum Voor Wiskunde En Informatica,Netherlands
+2477,National Dong Hwa University,Taiwan
+2478,Kyungnam University,Southkorea
+2479,Euskal Herriko Unibertsitatea,null
+2480,Ghulam Ishaq Khan Institute Of Engineering Sciences And Technology (Giki),Pakistan
+2481,Universiteit Van Amsterdam,null
+2482,Jerusalem University,Israel
+2483,Woods Hole Oceanographic Institution,null
+2484,Universit?? Scientifique Et M??dicale De Grenoble,France
+2485,Institut National Polytechnique De Grenoble,null
+2486,Universit?? Paris Vi- Pierre Et Marie Curie,null
+2487,Universiteit Leiden,null
+2488,St. Petersburg Academy,Russia
+2489,Korea National University Of Education,Southkorea
+2490,Universit?? Paris-Sud Xi-Orsay And Universit?? Di Palermo,Italy
+2491,Escuela Politecnica Nacional,Ecuador
+2492,Universit?? Degli Studi Di Udine,Italy
+2493,Univerzita Komensk??ho,Slovakia
+2494,Friedrich-Schiller-Universit??t Jena,Switzerland
+2495,Universit??t Basel,Germany
+2496,Kyiv Taras Shevchenko University And Technische Universit??t Kaiserslautern,Ukraine
+2497,Amirkabir University Of Technology (Tehran Polytechnic University) And Technische Universit??t Berlin,Iran
+2498,Uniformed Services University,Unitedstates
+2499,Universit?? Paris-Sud Xi-Orsay,France
+2500,Universitat De Barcelona,Spain
+2501,University Of Lublin,Poland
+2502,"Universidad De Chile, Universit?? De Montpellier Ii",France
+2503,Coll??ge De Navarre,France
+2504,Universit?? Di Salerno And University Of Portsmouth,Italy
+2505,Coll??ge De France,Italy
+2506,Universit?? Di Padova,France
+2507,University Of Pavia,null
+2508,Universit?? Degli Studi Di Ferrara,null
+2509,University Dijon,France
+2510,Universit??t Erfurt,null
+2511,Ruprecht-Karls-Universit??t Heidelberg,null
+2512,Institute Of Fundamental Technological Research,Poland
+2513,Universit?? De Poitiers,Netherlands
+2514,Universiteit Leiden,France
+2515,Universit?? Di Bologna,France
+2516,K??benhavns Universitet,Netherlands
+2517,Martin-Luther-Universit??t Halle-Wittenberg,null
+2518,University Of Lausanne,Switzerland
+2519,Universit?? De Montpellier,null
+2520,Coll??ge De Tr??guier,France
+2521,Northcentral University,Unitedstates
+2522,Friedrich-Schiller-Universit??t Jena,Netherlands
+2523,Universiteit Leiden,Germany
+2524,Universidad De Chile And Universitat Polit??cnica De Catalunya,Chile
+2525,Acad??mie Protestante De Saumur,France
+2526,Coll??ge De Montaigu,France
+2527,Universit?? Catholique De Louvain,Germany
+2528,Universit??t Ingolstadt,Belgium
+2529,Universit??t Basel,France
+2530,Universit?? De Poitiers,Switzerland
+2531,Coll??ge Sainte-Barbe,France
+2532,Coll??ge De Montaigu,null
+2533,Coll??ge De Montaigu,null
+2534,Christian-Albrechts-Universit??t Zu Kiel,null
+2535,Coll??ge De Tr??guier,null
+2536,Universit?? De Montpellier,null
+2537,Universit?? Degli Studi Di Ferrara,null
+2538,Universit?? Di Padova,null
+2539,Scuola Normale Superiore Di Pisa - ??cole Normale Sup??rieure De Lyon,Italy
+2540,Hohe Karlsschule Stuttgart,Germany
+2541,Lipetsk State Pedagogical University,Russia
+2542,Scuola Normale Superiore Di Pisa & Universit??t Z??rich,Switzerland
+2543,Philipps-Universit??t Marburg,Netherlands
+2544,"Scuola Normale Superiore, Pisa- Universit?? Bordeaux 1",Italy
+2545,Eberhard-Karls-Universit??t T??bingen,null
+2546,Coll??ge De Saint-Guillaume ?€ Strasbourg,France
+2547,Coll??ge De Sorbonne,null
+2548,Evangelischen Stift T??bingen,Germany
+2549,Universit??t Leipzig,null
+2550,H??gskolan I Sk??vde,null
+2551,H??gskolan I Sk??vde,null
+2552,H??gskolan I Sk??vde,null
+2553,H??gskolan I Sk??vde,null
+2554,H??gskolan I Sk??vde,null
+2555,H??gskolan I Sk??vde,null
+2556,H??gskolan I Sk??vde,null
+2557,Scuola Pubblica Di Vicenza,Italy
+2558,Loughborough University And Shandong University,Unitedkingdom
+2559,Martin-Luther-Universit??t Halle-Wittenberg,null
+2560,The Main School Of Planning And Statistics In  Warsaw,Poland
+2561,Universit?? Paris Est & Universit?? Roma Iii,France
+2562,Handelsakademie Hamburg,Germany
+2563,Universiteit Leiden,null
+2564,Martin-Luther-Universit??t Halle-Wittenberg,null
+2565,University Of Mozambique,Mozambique
+2566,Universitat De Les Illes Balears,Catalonia
+2567,Technische Universit??t Berlin And Escuela Polit??cnica Nacional-Quito,Germany
+2568,"Institute Of Biocybernetics, Polish Academy Of Science",Poland
+2569,"Systems Research Institute, Polish Academy Of Science",Poland
+2570,St. Cyril And St. Methodius University Of Veliko Tarnovo,Bulgaria
+2571,Martin-Luther-Universit??t Halle-Wittenberg,null
+2572,V??xj?? University,Sweden
+2573,Ruprecht-Karls-Universit??t Heidelberg,null
+2574,Universit??t Leipzig,Italy
+2575,Universit?? Di Pisa,null
+2576,Universit??t Viadrina Frankfurt An Der Oder,Germany
+2577,Universit??t Breslau,null
+2578,Universit??t Helmstedt,null
+2579,Martin-Luther-Universit??t Halle-Wittenberg,null
+2580,Laboratoire De Recherche En Informatique-Orsay,France
+2581,Universit??t Zu K??ln,Netherlands
+2582,Universit?? Paris Vi And Ecole Nationale Sup??rieure De Techniques Avanc??es,France
+2583,"Institute Of Measurement Theory, Slovak Academy Of Sciences",Slovakia
+2584,"Institute Of Measurement, Slovak Academy Of Sciences",Slovakia
+2585,"Military Academy, Liptovsk?? Mikul????",Slovakia
+2586,Eberhard-Karls-Universit??t T??bingen,null
+2587,University Politechnica Bucharest,Romania
+2588,Marien Ngouabi University,Democratic Republic Of The Congo
+2589,Yuriy Fedkovych Chernivtsi National University,Ukraine
+2590,"University Of Paris, ??cole Sup??rieure De Physique Et De Chimie Industrielles (Espci)",France
+2591,Universit??t Ingolstadt,null
+2592,Eberhard-Karls-Universit??t T??bingen,null
+2593,Beni Suef University,Egypt
+2594,Matematicki Fakultet Univerziteta U Beogradu,Yugoslavia
+2595,Universit?? De Toulouse,null
+2596,"University Of Warwick And Institute Of Mathematics, Slovak Academy Of Sciences",Unitedkingdom
+2597,Universit?? Paris Vi- Pierre Et Marie Curie,Unitedkingdom
+2598,University Of Glasgow,France
+2599,Whu Vallendar,Germany
+2600,Universit?? De Bourgogne And Universit?? Du Luxembourg,France
+2601,Universit?? Joseph Fourier Grenoble I,Germany
+2602,Rheinische Friedrich-Wilhelms-Universit??t Bonn,France
+2603,Universiteit Leiden,null
+2604,Rotterdam School Of Management,Netherlands
+2605,Univerzita Kon??tant??na Filozofa V Nitre,Slovakia
+2606,Yuan Ze University,Taiwan
+2607,Coll??ge De France,Unitedkingdom
+2608,University Of Oxford,France
+2609,Hankuk University Of Foreign Studies,Southkorea
+2610,Coll??ge Saint-Guillaume ?€ Strasbourg,null
+2611,Accademia Romana,null
+2612,Albert-Ludwigs-Universit??t Freiburg Im Breisgau,null
+2613,Universit?? De Paris,null
+2614,Accademia Romana,null
+2615,Universit?? Di Mantova,null
+2616,Universiteit Leiden,null
+2617,Universit?? De Bourges,null
+2618,Universit?? Di Bologna,null
+2619,University Of Cambridge,null
+2620,University Of Szeged,null
+2621,Woods Hole Oceanographic Institution,null
+2622,Woods Hole Oceanographic Institution,null
+2623,Woods Hole Oceanographic Institution,null
+2624,Woods Hole Oceanographic Institution,null
+2625,Universit?? Paris Xiii,null
+2626,Universit?? Paris Xiii,null
+2627,Max Planck Institut F??r Mathematik,null
+2628,H??gskolan I Sk??vde,null
+2629,H??gskolan I Sk??vde,null
+2630,H??gskolan I Sk??vde,null
+2631,Friedrich-Alexander-Universit??t Erlangen-N??rnberg,null
+2632,Friedrich-Alexander-Universit??t Erlangen-N??rnberg,null
+2633,"University Of California, Irvine",null
+2634,Universidade Federal De S??o Carlos,null
+2635,Universit?? De Bourges,null
+2636,Euskal Herriko Unibertsitatea,null
+2637,Woods Hole Oceanographic Institution,null
+2638,Woods Hole Oceanographic Institution,null

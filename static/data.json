@@ -1,0 +1,297 @@
+{
+  "data": [
+    {
+      "name": "贾雨村",
+      "category": 5
+    },
+    {
+      "name": "贾琏",
+      "category": 0
+    },
+    {
+      "name": "王夫人",
+      "category": 2
+    },
+    {
+      "name": "林之孝家的",
+      "category": 5
+    },
+    {
+      "name": "甄应嘉",
+      "category": 5
+    },
+    {
+      "name": "秦可卿",
+      "category": 1
+    },
+    {
+      "name": "芳官",
+      "category": 0
+    },
+    {
+      "name": "李纨",
+      "category": 0
+    },
+    {
+      "name": "夏金桂",
+      "category": 4
+    },
+    {
+      "name": "柳五儿",
+      "category": 0
+    },
+    {
+      "name": "贾珠",
+      "category": 0
+    },
+    {
+      "name": "四儿",
+      "category": 0
+    },
+    {
+      "name": "贾珍",
+      "category": 1
+    },
+    {
+      "name": "茗烟",
+      "category": 0
+    }
+  ],
+  "links": [
+    {
+      "source": 72,
+      "target": 25,
+      "value": "伯父"
+    },
+    {
+      "source": 51,
+      "target": 56,
+      "value": "丫头"
+    },
+    {
+      "source": 0,
+      "target": 59,
+      "value": "老师"
+    },
+    {
+      "source": 35,
+      "target": 87,
+      "value": "丫头"
+    },
+    {
+      "source": 50,
+      "target": 103,
+      "value": "相好"
+    },
+    {
+      "source": 61,
+      "target": 59,
+      "value": "丫环"
+    },
+    {
+      "source": 61,
+      "target": 98,
+      "value": "相好"
+    },
+    {
+      "source": 99,
+      "target": 90,
+      "value": "母亲"
+    },
+    {
+      "source": 18,
+      "target": 99,
+      "value": "孙子"
+    },
+    {
+      "source": 48,
+      "target": 36,
+      "value": "姑舅哥哥"
+    },
+    {
+      "source": 45,
+      "target": 58,
+      "value": "儿子"
+    },
+    {
+      "source": 15,
+      "target": 58,
+      "value": "侄儿"
+    },
+    {
+      "source": 76,
+      "target": 57,
+      "value": "侄女"
+    },
+    {
+      "source": 76,
+      "target": 81,
+      "value": "女儿"
+    },
+    {
+      "source": 76,
+      "target": 15,
+      "value": "妻"
+    },
+    {
+      "source": 64,
+      "target": 15,
+      "value": "胞妹"
+    },
+    {
+      "source": 64,
+      "target": 58,
+      "value": "侄女"
+    },
+    {
+      "source": 8,
+      "target": 45,
+      "value": "妻"
+    },
+    {
+      "source": 94,
+      "target": 45,
+      "value": "妾"
+    },
+    {
+      "source": 77,
+      "target": 20,
+      "value": "女儿"
+    },
+    {
+      "source": 20,
+      "target": 77,
+      "value": "父亲"
+    },
+    {
+      "source": 95,
+      "target": 8,
+      "value": "陪房丫头"
+    },
+    {
+      "source": 80,
+      "target": 63,
+      "value": "母亲"
+    },
+    {
+      "source": 80,
+      "target": 17,
+      "value": "母亲"
+    },
+    {
+      "source": 80,
+      "target": 22,
+      "value": "妾"
+    },
+    {
+      "source": 58,
+      "target": 64,
+      "value": "姑母"
+    },
+    {
+      "source": 58,
+      "target": 45,
+      "value": "母亲"
+    },
+    {
+      "source": 58,
+      "target": 2,
+      "value": "姐妹"
+    },
+    {
+      "source": 101,
+      "target": 2,
+      "value": "大丫环"
+    },
+    {
+      "source": 86,
+      "target": 2,
+      "value": "大丫头"
+    },
+    {
+      "source": 96,
+      "target": 2,
+      "value": "大丫头"
+    },
+    {
+      "source": 69,
+      "target": 2,
+      "value": "丫头"
+    },
+    {
+      "source": 69,
+      "target": 74,
+      "value": "妹妹"
+    },
+    {
+      "source": 74,
+      "target": 69,
+      "value": "姐姐"
+    },
+    {
+      "source": 10,
+      "target": 19,
+      "value": "哥哥"
+    },
+    {
+      "source": 10,
+      "target": 7,
+      "value": "丈夫"
+    },
+    {
+      "source": 10,
+      "target": 22,
+      "value": "长子"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": "长子"
+    },
+    {
+      "source": 7,
+      "target": 19,
+      "value": "嫂子"
+    },
+    {
+      "source": 7,
+      "target": 10,
+      "value": "妻"
+    },
+    {
+      "source": 102,
+      "target": 7,
+      "value": "儿子"
+    },
+    {
+      "source": 102,
+      "target": 10,
+      "value": "儿子"
+    },
+    {
+      "source": 79,
+      "target": 2,
+      "value": "长女"
+    },
+    {
+      "source": 79,
+      "target": 22,
+      "value": "长女"
+    },
+    {
+      "source": 19,
+      "target": 59,
+      "value": "表兄妹"
+    },
+    {
+      "source": 19,
+      "target": 56,
+      "value": "丈夫"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "value": "次子"
+    }
+  ]
+}

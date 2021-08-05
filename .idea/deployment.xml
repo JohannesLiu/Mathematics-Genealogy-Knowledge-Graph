@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="liuxk@192.168.2.130:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="liuxk@192.168.2.130:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/liuxk/KG/Mathematics-Genealogy-Knowledge-Graph" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
