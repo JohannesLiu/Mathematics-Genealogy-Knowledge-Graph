@@ -1,7 +1,7 @@
 from py2neo import Graph
 graph = Graph(
     "http://192.168.2.130:7475",
-    # database="academic-knowledge-graph",
+    # database="mathematics-genealogy-knwoledge-graph",
     username="neo4j",
     password="Kddir@123456&"
 )
